@@ -1,5 +1,3 @@
-git config --global Jess-045
-git config --global  jessicaowens111.com
 
 from pyspark.sql import SparkSession
 import random
