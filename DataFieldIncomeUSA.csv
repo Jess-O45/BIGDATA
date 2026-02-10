@@ -1,0 +1,674 @@
+index,Job Title,Location,Size,Founded,Type of ownership,Industry,Revenue,Lower Salary,Upper Salary,Avg Salary(K),company_txt,Job Location,Python,hadoop,job_title_sim,seniority_by_title,Degree
+0,Data Scientist,"Albuquerque, NM",501 - 1000 ,1973,Company - Private,Aerospace & Defense,$50 to $100 million (USD),53,91,72,Tecolote Research,NM,1,0,data scientist,na,M
+1,Healthcare Data Scientist,"Linthicum, MD",10000+ ,1984,Other Organization,Health Care Services & Hospitals,$2 to $5 billion (USD),63,112,87.5,University of Maryland Medical System,MD,1,0,data scientist,na,M
+2,Data Scientist,"Clearwater, FL",501 - 1000 ,2010,Company - Private,Security Services,$100 to $500 million (USD),80,90,85,KnowBe4,FL,1,0,data scientist,na,M
+3,Data Scientist,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),56,97,76.5,PNNL,WA,1,0,data scientist,na,na
+4,Data Scientist,"New York, NY",51 - 200 ,1998,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,86,143,114.5,Affinity Solutions,NY,1,0,data scientist,na,na
+5,Data Scientist,"Dallas, TX",201 - 500 ,2000,Company - Public,Real Estate,$1 to $2 billion (USD),71,119,95,CyrusOne,TX,1,0,data scientist,na,na
+6,Data Scientist,"Baltimore, MD",501 - 1000 ,2008,Company - Private,Banks & Credit Unions,Unknown / Non-Applicable,54,93,73.5,ClearOne Advantage,MD,0,0,data scientist,na,na
+7,Data Scientist,"San Jose, CA",201 - 500 ,2005,Company - Private,Consulting,$25 to $50 million (USD),86,142,114,Logic20/20,CA,1,0,data scientist,na,M
+8,Research Scientist,"Rochester, NY",10000+ ,2014,Hospital,Health Care Services & Hospitals,$500 million to $1 billion (USD),38,84,61,Rochester Regional Health,NY,0,0,other scientist,na,P
+9,Data Scientist,"New York, NY",51 - 200 ,2009,Company - Private,Internet,$100 to $500 million (USD),120,160,140,<intent>,NY,1,0,data scientist,na,na
+10,Data Scientist,"San Jose, CA",501 - 1000 ,2011,Company - Private,Other Retail Stores,$1 to $2 billion (USD),126,201,163.5,Wish,CA,1,0,data scientist,na,na
+11,Data Scientist,"Chantilly, VA",5001 - 10000 ,1968,Company - Public,Research & Development,$1 to $2 billion (USD),64,106,85,ManTech,VA,0,1,data scientist,na,na
+12,Staff Data Scientist - Technology,"Plano, TX",10000+ ,1962,Company - Public,"Department, Clothing, & Shoe Stores",$10+ billion (USD),106,172,139,Walmart,TX,0,1,data scientist,na,M
+13,Data Analyst,"Seattle, WA",201 - 500 ,2012,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,46,85,65.5,Yesler,WA,1,0,analyst,na,na
+14,Data Scientist,"Cambridge, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),83,144,113.5,Takeda Pharmaceuticals,MA,1,0,data scientist,na,M
+15,Data Engineer I,"Newark, NJ",1001 - 5000 ,1995,Subsidiary or Business Segment,Motion Picture Production & Distribution,Unknown / Non-Applicable,102,190,146,Audible,NJ,0,0,data engineer,na,na
+16,"Scientist I/II, Biology","Cambridge, MA",51 - 200 ,2011,Company - Public,Biotech & Pharmaceuticals,$1 to $5 million (USD),67,137,102,Blueprint Medicines,MA,0,0,other scientist,na,P
+17,Customer Data Scientist,"Mountain View, CA",201 - 500 ,2011,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,118,189,153.5,h2o.ai,CA,1,1,data scientist,na,M
+18,Data Scientist - Health Data Analytics,"San Francisco, CA",51 - 200 ,2010,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,110,175,142.5,Nuna,CA,0,0,data scientist,na,na
+19,Data Scientist,"Denver, CO",501 - 1000 ,1915,Nonprofit Organization,Insurance Carriers,$500 million to $1 billion (USD),64,111,87.5,Pinnacol Assurance,CO,1,0,data scientist,na,M
+20,Data Scientist,"Seattle, WA",201 - 500 ,2012,Company - Private,Internet,Unknown / Non-Applicable,81,130,105.5,Porch,WA,1,0,data scientist,na,M
+21,Senior Data Scientist / Machine Learning,"Dallas, TX",201 - 500 ,2013,Company - Private,Insurance Agencies & Brokerages,Unknown / Non-Applicable,73,119,96,Health IQ,TX,0,0,data scientist,sr,P
+22,Data Scientist - Quantitative,"Chicago, IL",501 - 1000 ,1995,Company - Private,Logistics & Supply Chain,Unknown / Non-Applicable,86,139,112.5,Truckstop.com,IL,1,0,data scientist,na,M
+23,Data Scientist,"Louisville, KY",51 - 200 ,1935,Nonprofit Organization,Logistics & Supply Chain,$10 to $25 million (USD),63,105,84,SMC 3,KY,1,0,data scientist,na,M
+25,Data Scientist,"Herndon, VA",501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),109,177,143,Novetta,VA,1,0,data scientist,na,na
+26,Digital Health Data Scientist,"Cambridge, MA",10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),63,110,86.5,Pfizer,MA,1,0,data scientist,na,na
+27,Data Scientist,"Hillsboro, OR",1001 - 5000 ,1952,Company - Private,Banks & Credit Unions,$100 to $500 million (USD),75,124,99.5,First Tech Federal Credit Union,OR,1,0,data scientist,na,na
+28,Associate Data Analyst,"Worcester, MA",5001 - 10000 ,1852,Company - Public,Insurance Carriers,$5 to $10 billion (USD),34,61,47.5,The Hanover Insurance Group,MA,0,0,analyst,na,na
+29,Clinical Data Scientist,"Groton, CT",10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),63,105,84,Pfizer,CT,0,0,data scientist,na,M
+30,Data Scientist,"Clearwater, FL",501 - 1000 ,2010,Company - Private,Security Services,$100 to $500 million (USD),80,90,85,KnowBe4,FL,1,0,data scientist,na,M
+31,Data Scientist,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),56,97,76.5,PNNL,WA,1,0,data scientist,na,na
+32,Data Scientist,"Detroit, MI",1001 - 5000 ,1997,Company - Private,Real Estate,$500 million to $1 billion (USD),72,120,96,Amrock,MI,1,0,data scientist,na,M
+33,Data Scientist / Machine Learning Expert,"Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),86,143,114.5,Novartis,MA,1,0,data scientist,na,na
+34,Data Scientist,"Sunnyvale, CA",5001 - 10000 ,1996,Company - Public,Telecommunications Services,$2 to $5 billion (USD),93,149,121,Juniper Networks,CA,1,0,data scientist,na,M
+35,Data Scientist,"Ipswich, MA",201 - 500 ,1974,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,85,140,112.5,New England Biolabs,MA,1,0,data scientist,na,na
+36,Web Data Analyst,"San Jose, CA",201 - 500 ,2008,Company - Private,IT Services,Unknown / Non-Applicable,77,135,106,Clarity Insights,CA,1,0,analyst,na,na
+37,Data Scientist,"Redlands, CA",1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),82,132,107,Esri,CA,1,1,data scientist,na,M
+38,Data Scientist,"Woburn, MA",201 - 500 ,2010,Company - Private,Aerospace & Defense,$100 to $500 million (USD),83,137,110,Systems & Technology Research,MA,1,1,data scientist,na,P
+39,Senior Data Scientist,"Fremont, CA",5001 - 10000 ,1870,Company - Public,Biotech & Pharmaceuticals,$1 to $2 billion (USD),115,180,147.5,Sartorius,CA,1,0,data scientist,sr,M
+40,Data Engineer,"Long Beach, NY",201 - 500 ,1985,Company - Private,Insurance Carriers,$100 to $500 million (USD),74,138,106,Lancer Insurance,NY,1,0,data engineer,na,M
+41,Data Analyst,"San Francisco, CA",201 - 500 ,2008,Company - Private,IT Services,$50 to $100 million (USD),64,112,88,Sauce Labs,CA,1,0,analyst,na,na
+44,Data Scientist - Algorithms & Inference,"San Francisco, CA",51 - 200 ,2010,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,110,175,142.5,Nuna,CA,0,0,data scientist,na,M
+45,Scientist,"Allendale, NJ",5001 - 10000 ,2015,Company - Public,Consumer Products Manufacturing,$2 to $5 billion (USD),52,113,82.5,Edgewell Personal Care,NJ,0,0,other scientist,na,M
+46,Senior Data Scientist,"Chicago, IL",1001 - 5000 ,1993,Company - Public,Real Estate,$2 to $5 billion (USD),110,150,130,Equity Residential,IL,1,1,data scientist,sr,M
+49,Lead Data Scientist,"Bellevue, WA",10000+ ,1958,Company - Public,IT Services,$10+ billion (USD),158,211,184.5,Visa Inc.,WA,1,0,data scientist,sr,na
+50,Associate Data Analyst,"Longmont, CO",5001 - 10000 ,1986,Company - Private,Enterprise Software & Network Solutions,$2 to $5 billion (USD),20,39,29.5,Intrado,CO,0,0,analyst,na,M
+51,Spectral Scientist/Engineer,"Beavercreek, OH",501 - 1000 ,1999,Company - Private,Aerospace & Defense,$100 to $500 million (USD),56,117,86.5,Centauri,OH,0,0,other scientist,na,M
+52,College Hire - Data Scientist - Open to December 2019 Graduates,"Peoria, IL",10000+ ,1925,Company - Public,Industrial Manufacturing,$10+ billion (USD),63,99,81,Caterpillar,IL,0,0,data scientist,na,na
+54,Data Scientist,"Fort Lauderdale, FL",501 - 1000 ,1984,Subsidiary or Business Segment,Advertising & Marketing,Unknown / Non-Applicable,68,114,91,Zimmerman Advertising,FL,1,1,data scientist,na,na
+55,"Data Scientist, Office of Data Science","Boston, MA",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),86,143,114.5,Liberty Mutual Insurance,MA,1,0,data scientist,na,na
+56,Data Science Analyst,"Huntsville, AL",1001 - 5000 ,2002,Company - Private,Aerospace & Defense,$100 to $500 million (USD),41,95,68,"Torch Technologies, Inc.",AL,1,0,data scientist,na,na
+57,Data Scientist,"Armonk, NY",10000+ ,1863,Company - Public,Insurance Agencies & Brokerages,$10+ billion (USD),86,144,115,Swiss Re,NY,1,0,data scientist,na,M
+58,Data Scientist,"San Diego, CA",10000+ ,1939,Company - Public,Aerospace & Defense,$10+ billion (USD),80,139,109.5,Northrop Grumman,CA,0,0,data scientist,na,na
+59,Data Scientist,"Albuquerque, NM",5001 - 10000 ,1870,Company - Public,Biotech & Pharmaceuticals,$1 to $2 billion (USD),56,95,75.5,Sartorius,NM,1,0,data scientist,na,M
+60,Data Scientist,"San Francisco, CA",501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,120,189,154.5,Netskope,CA,1,0,data scientist,na,P
+61,Data Scientist,"Saint Louis, MO",51 - 200 ,2016,Company - Private,IT Services,Unknown / Non-Applicable,111,176,143.5,1904labs,MO,1,0,data scientist,na,na
+62,Data Scientist,"Baltimore, MD",501 - 1000 ,2008,Company - Private,Banks & Credit Unions,Unknown / Non-Applicable,54,93,73.5,ClearOne Advantage,MD,0,0,data scientist,na,na
+63,Data Scientist,"Dallas, TX",201 - 500 ,2000,Company - Public,Real Estate,$1 to $2 billion (USD),71,119,95,CyrusOne,TX,1,0,data scientist,na,na
+65,Senior Data Scientist,"Cincinnati, OH",201 - 500 ,1885,Subsidiary or Business Segment,Metals Brokers,Unknown / Non-Applicable,82,132,107,The David J. Joseph Company,OH,1,0,data scientist,sr,M
+66,Data Scientist,"New York, NY",201 - 500 ,2011,Company - Private,Consulting,$10 to $25 million (USD),84,146,115,USEReady,NY,1,1,data scientist,na,na
+67,Senior Risk Data Scientist,"Palo Alto, CA",501 - 1000 ,2006,Company - Public,Financial Transaction Processing,$50 to $100 million (USD),107,172,139.5,Bill.com,CA,0,0,data scientist,sr,M
+68,Data Scientist in Artificial Intelligence Early Career,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),49,85,67,Pacific Northwest National Laboratory,WA,0,0,data scientist,na,M
+70,Data Scientist,"Coraopolis, PA",10000+ ,1948,Company - Public,Sporting Goods Stores,$5 to $10 billion (USD),61,109,85,DICK'S Sporting Goods - Corporate,PA,1,0,data scientist,na,M
+72,Data Scientist,"Framingham, MA",51 - 200 ,2006,Company - Private,Biotech & Pharmaceuticals,$1 to $5 million (USD),88,148,118,Berg Health,MA,1,0,data scientist,na,P
+73,Data Scientist,"Atlanta, GA",51 - 200 ,2003,Company - Private,Computer Hardware & Software,$25 to $50 million (USD),60,99,79.5,Oversight Systems,GA,1,0,data scientist,na,na
+75,Data Scientist - Research,"Boston, MA",201 - 500 ,1999,Company - Public,Advertising & Marketing,$100 to $500 million (USD),41,72,56.5,C Space,MA,1,0,data scientist,na,na
+77,R&D Data Analysis Scientist,"Vancouver, WA",10000+ ,1939,Company - Public,Computer Hardware & Software,Unknown / Non-Applicable,65,130,97.5,HP Inc.,WA,0,0,other scientist,na,M
+79,"Director, Data Science","Lake Forest, IL",10000+ ,1927,Company - Public,Wholesale,$10+ billion (USD),139,220,179.5,Grainger,IL,1,0,data scientist,na,M
+80,Scientist,"Maryland Heights, MO",501 - 1000 ,1978,Subsidiary or Business Segment,Research & Development,$50 to $100 million (USD),50,102,76,EAG Laboratories,MO,0,0,other scientist,na,P
+81,Data Scientist SR,"Charlottesville, VA",501 - 1000 ,2010,Company - Private,IT Services,$100 to $500 million (USD),85,139,112,The Buffalo Group,VA,1,1,data scientist,sr,M
+82,Data Scientist,"Pittsburgh, PA",1001 - 5000 ,1860,Company - Private,Mining,$1 to $2 billion (USD),74,122,98,Carmeuse,PA,1,0,data scientist,na,M
+83,R&D Sr Data Scientist,"Vancouver, WA",10000+ ,1939,Company - Public,Computer Hardware & Software,Unknown / Non-Applicable,99,157,128,HP Inc.,WA,0,0,data scientist,sr,M
+84,Customer Data Scientist/Sales Engineer (Bay,"Mountain View, CA",201 - 500 ,2011,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,79,222,150.5,h2o.ai,CA,1,1,data scientist,na,P
+85,Research Scientist,"Cambridge, MA",51 - 200 ,2000,Company - Private,Biotech & Pharmaceuticals,$10 to $25 million (USD),57,118,87.5,GNS Healthcare,MA,0,0,other scientist,na,M
+86,Data Scientist,"Chantilly, VA",1001 - 5000 ,2017,Company - Private,Aerospace & Defense,$1 to $2 billion (USD),83,137,110,Peraton,VA,1,1,data scientist,na,na
+87,Data Scientist,"San Jose, CA",10000+ ,1995,Company - Private,IT Services,$500 million to $1 billion (USD),86,141,113.5,Pactera,CA,1,0,data scientist,na,na
+88,Data Scientist,"San Francisco, CA",51 - 200 ,2016,Company - Private,Health Care Services & Hospitals,$1 to $5 million (USD),94,154,124,Nurx,CA,1,0,data scientist,na,na
+89,Jr. Business Data Analyst,"Harrisburg, PA",201 - 500 ,1997,Company - Private,Advertising & Marketing,$25 to $50 million (USD),37,76,56.5,webfx.com,PA,0,0,analyst,jr,na
+90,Data Scientist,"Laurel, MD",5001 - 10000 ,1942,Nonprofit Organization,Aerospace & Defense,$1 to $2 billion (USD),100,160,130,Johns Hopkins University Applied Physics Laboratory,MD,1,0,data scientist,na,na
+91,Data Analyst,"Chicago, IL",51 - 200 ,2008,Company - Private,Computer Hardware & Software,$10 to $25 million (USD),55,100,77.5,Productive Edge,IL,0,0,analyst,na,na
+92,Data Engineer,"Arlington, VA",201 - 500 ,2002,Company - Private,Consulting,$50 to $100 million (USD),60,114,87,Excella Consulting,VA,1,0,data engineer,na,na
+93,Data Analyst,"Tacoma, WA",501 - 1000 ,1948,Company - Private,Wholesale,$100 to $500 million (USD),39,68,53.5,Gensco,WA,0,0,analyst,na,na
+94,Staff Data Scientist - Technology,"Plano, TX",10000+ ,1962,Company - Public,"Department, Clothing, & Shoe Stores",$10+ billion (USD),106,172,139,Walmart,TX,0,1,data scientist,na,M
+95,Data Scientist,"San Jose, CA",201 - 500 ,2005,Company - Private,Consulting,$25 to $50 million (USD),86,142,114,Logic20/20,CA,1,0,data scientist,na,M
+96,Data Scientist,"Miami, FL",501 - 1000 ,2008,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),64,107,85.5,goTRG,FL,1,1,data scientist,na,na
+97,Data Management Specialist,"Huntsville, AL",51 - 200 ,1996,Company - Private,IT Services,$25 to $50 million (USD),31,65,48,NMR Consulting,AL,0,1,na,na,na
+99,E-Commerce Data Analyst,"New Orleans, LA",51 - 200 ,1999,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,34,62,48,iSeatz,LA,0,0,analyst,na,na
+101,Sr. Scientist II,"San Francisco, CA",201 - 500 ,1990,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),117,231,174,Nektar Therapeutics,CA,0,0,other scientist,sr,M
+102,Insurance Data Scientist,"Atlanta, GA",5001 - 10000 ,1968,Company - Public,Financial Analytics & Research,$1 to $2 billion (USD),64,106,85,TransUnion,GA,1,0,data scientist,na,na
+104,Data Modeler,"Landover, MD",51 - 200 ,2003,Company - Private,IT Services,$10 to $25 million (USD),79,134,106.5,IT Concepts,MD,0,0,data modeler,na,na
+105,Data Analyst / Scientist,"Patuxent River, MD",1001 - 5000 ,1988,Company - Private,IT Services,$100 to $500 million (USD),52,93,72.5,Scientific Research Corporation,MD,0,0,analyst,na,na
+106,Scientist,"Suitland, MD",10000+ ,1996,Subsidiary or Business Segment,IT Services,$10+ billion (USD),55,116,85.5,General Dynamics Information Technology,MD,0,0,other scientist,na,M
+107,Data Scientist,"McLean, VA",5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,$1 to $2 billion (USD),72,123,97.5,MITRE,VA,1,0,data scientist,na,na
+108,Data Scientist,"Fort Belvoir, VA",501 - 1000 ,2010,Company - Private,IT Services,$100 to $500 million (USD),74,124,99,The Buffalo Group,VA,1,0,data scientist,na,na
+109,Data Analyst,"Milwaukee, WI",1001 - 5000 ,2001,Company - Private,Insurance Carriers,$2 to $5 billion (USD),40,73,56.5,DentaQuest,WI,0,0,analyst,na,na
+112,Data Scientist,"New York, NY",51 - 200 ,2012,Company - Private,Research & Development,Unknown / Non-Applicable,89,153,121,7Park Data,NY,1,0,data scientist,na,na
+113,Data Scientist,"Syracuse, NY",501 - 1000 ,1992,Company - Private,Security Services,Unknown / Non-Applicable,61,110,85.5,Rapid Response Monitoring,NY,1,0,data scientist,na,M
+116,"Data Scientist, Rice University","Houston, TX",1001 - 5000 ,2015,Subsidiary or Business Segment,Education Training Services,Unknown / Non-Applicable,65,110,87.5,Trilogy Ed,TX,1,0,data scientist,na,na
+117,Senior Data Scientist,"Washington, DC",1001 - 5000 ,1935,Company - Private,Consulting,Unknown / Non-Applicable,200,275,237.5,Gallup,DC,1,0,data scientist,sr,M
+118,Data Engineer,"Charlotte, NC",1001 - 5000 ,1997,Company - Private,IT Services,$100 to $500 million (USD),68,123,95.5,CapTech,NC,1,0,data engineer,na,M
+119,Senior Data Scientist,"Southfield, MI",10000+ ,1994,Company - Public,Transportation Equipment Manufacturing,$5 to $10 billion (USD),80,129,104.5,American Axle & Manufacturing,MI,1,0,data scientist,sr,M
+120,Financial Data Analyst,"Matawan, NJ",201 - 500 ,2012,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,41,72,56.5,CentralReach,NJ,0,0,analyst,na,na
+122,Senior Data Analyst,"Phoenix, AZ",201 - 500 ,2010,Company - Private,Enterprise Software & Network Solutions,$25 to $50 million (USD),39,71,55,Integrate,AZ,0,0,analyst,sr,na
+123,Research Scientist,"Omaha, NE",1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,Unknown / Non-Applicable,38,85,61.5,Boys Town Hospital,NE,0,0,other scientist,na,P
+124,Data Scientist,"San Francisco, CA",201 - 500 ,2006,Company - Private,Computer Hardware & Software,$100 to $500 million (USD),121,193,157,Demandbase,CA,0,0,data scientist,na,na
+125,Data Engineer,"Lyndhurst, NJ",201 - 500 ,2019,Company - Private,Internet,Unknown / Non-Applicable,54,102,78,Sapphire Digital,NJ,1,0,data engineer,na,na
+126,Data Scientist,"Cambridge, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),83,144,113.5,Takeda Pharmaceuticals,MA,1,0,data scientist,na,M
+127,Data Scientist,"New York, NY",51 - 200 ,2009,Company - Private,Internet,$100 to $500 million (USD),120,160,140,<intent>,NY,1,0,data scientist,na,na
+128,Data Scientist,"San Francisco, CA",51 - 200 ,2015,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,102,163,132.5,Formation,CA,0,0,data scientist,na,M
+129,Data Engineer,"San Francisco, CA",5001 - 10000 ,1982,Company - Public,Computer Hardware & Software,$2 to $5 billion (USD),76,140,108,Autodesk,CA,1,1,data engineer,na,M
+130,Ag Data Scientist,"Atlanta, IN",501 - 1000 ,1937,Company - Private,Farm Support Services,$50 to $100 million (USD),60,101,80.5,Beck's Hybrids,IN,0,0,data scientist,na,na
+131,Data Scientist,"Rockville, MD",201 - 500 ,2000,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,82,133,107.5,DrFirst,MD,1,0,data scientist,na,M
+132,Data Engineer,"Minneapolis, MN",51 - 200 ,1996,Company - Private,Consulting,$25 to $50 million (USD),65,125,95,Object Partners,MN,0,1,data engineer,na,na
+136,Data Scientist II,"Los Angeles, CA",1001 - 5000 ,1997,Nonprofit Organization,Health Care Services & Hospitals,Unknown / Non-Applicable,91,148,119.5,L.A. Care Health Plan,CA,1,0,data scientist,na,M
+137,Senior Data Engineer,"Charlotte, NC",1001 - 5000 ,2000,Company - Private,Advertising & Marketing,$1 to $2 billion (USD),95,173,134,Red Ventures,NC,0,0,data engineer,sr,na
+138,Data Scientist,"Cambridge, MA",201 - 500 ,1999,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,77,124,100.5,Quick Base,MA,1,0,data scientist,na,na
+139,Data Scientist,"Cincinnati, OH",1001 - 5000 ,1878,Company - Public,TV Broadcast & Cable Networks,$500 million to $1 billion (USD),80,135,107.5,The E.W. Scripps Company,OH,1,0,data scientist,na,M
+140,Data Engineer,"Washington, DC",51 - 200 ,2015,Company - Private,Internet,Unknown / Non-Applicable,85,159,122,Upside Business Travel,DC,1,0,data engineer,na,na
+141,Data Engineer,"Chicago, IL",1001 - 5000 ,1993,Company - Public,Real Estate,$2 to $5 billion (USD),80,105,92.5,Equity Residential,IL,1,1,data engineer,na,na
+142,Data Analyst,"Baltimore, MD",501 - 1000 ,1986,Company - Private,Research & Development,$100 to $500 million (USD),43,81,62,Synagro,MD,0,0,analyst,na,na
+143,Project Scientist,"Alabaster, AL",51 - 200 ,2000,Other Organization,Architectural & Engineering Services,$25 to $50 million (USD),29,50,39.5,Alliance Source Testing,AL,0,0,other scientist,na,na
+145,Data Scientist,"Santa Fe Springs, Los Angeles, CA",1001 - 5000 ,1966,Company - Private,Industrial Manufacturing,$100 to $500 million (USD),82,133,107.5,Accuride International,CA,0,0,data scientist,na,M
+146,Data Analytics Manager,"Kansas City, MO",501 - 1000 ,2017,Company - Private,Staffing & Outsourcing,Unknown / Non-Applicable,26,55,40.5,Full Potential Solutions,MO,1,0,Data scientist project manager,na,na
+147,Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,"Ashburn, VA",10000+ ,1958,Company - Public,IT Services,$10+ billion (USD),61,118,89.5,Visa Inc.,VA,1,1,data scientist,sr,M
+148,Data Scientist,"Chicago, IL",201 - 500 ,2008,Company - Private,Consulting,$50 to $100 million (USD),60,102,81,Maven Wave Partners,IL,1,1,data scientist,na,na
+150,Senior Data Scientist,"Herndon, VA",501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),112,182,147,Novetta,VA,1,0,data scientist,sr,na
+152,Data Scientist,"Fort Worth, TX",1001 - 5000 ,1958,Company - Private,Brokerage Services,$100 to $500 million (USD),64,106,85,"First Command Financial Services, Inc.",TX,1,0,data scientist,na,na
+153,Associate Scientist,"Valencia, CA",1001 - 5000 ,1971,Company - Private,Consumer Products Manufacturing,$1 to $2 billion (USD),51,112,81.5,Pharmavite,CA,0,0,other scientist,na,M
+154,"Scientist 2, QC Viral Vector","Novato, CA",1001 - 5000 ,1997,Company - Public,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),113,223,168,BioMarin Pharmaceutical,CA,0,0,other scientist,na,P
+156,Machine Learning Engineer,"Aurora, CO",10000+ ,2007,Company - Private,Aerospace & Defense,Unknown / Non-Applicable,72,129,100.5,Stratagem Group,CO,1,1,machine learning engineer,na,na
+157,Data Scientist/ML Engineer,"New York, NY",1001 - 5000 ,1943,Company - Private,Consulting,$100 to $500 million (USD),71,123,97,PA Consulting,NY,1,1,data scientist,na,M
+158,Data Scientist,"Chantilly, VA",5001 - 10000 ,1968,Company - Public,Research & Development,$1 to $2 billion (USD),64,106,85,ManTech,VA,0,1,data scientist,na,na
+159,Customer Data Scientist,"Mountain View, CA",201 - 500 ,2011,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,118,189,153.5,h2o.ai,CA,1,1,data scientist,na,M
+161,Data Engineer,"Tampa, FL",51 - 200 ,2017,Company - Private,IT Services,Unknown / Non-Applicable,120,145,132.5,Gridiron IT,FL,0,0,data engineer,na,na
+162,Data Engineer,"Chicago, IL",51 - 200 ,2008,Company - Private,Computer Hardware & Software,$10 to $25 million (USD),80,120,100,Productive Edge,IL,0,0,data engineer,na,na
+164,Sr. Data Scientist,"Denver, CO",201 - 500 ,2011,Company - Private,Travel Agencies,Unknown / Non-Applicable,80,130,105,Evolve Vacation Rental,CO,1,0,data scientist,sr,M
+167,Data Analyst - Asset Management,"San Francisco, CA",51 - 200 ,2013,Company - Private,Real Estate,Unknown / Non-Applicable,71,136,103.5,Maximus Real Estate Partners,CA,0,0,analyst,na,na
+168,Senior Research Scientist - Embedded System Development for DevOps,"Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,81,167,124,Software Engineering Institute,PA,1,0,other scientist,sr,M
+169,Data Scientist - Bioinformatics,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),49,85,67,PNNL,WA,1,0,data scientist,na,P
+170,Data Engineer,"Washington, DC",10000+ ,2000,Company - Private,IT Services,$2 to $5 billion (USD),60,114,87,AVANADE,DC,0,0,data engineer,na,M
+171,Customer Data Scientist/Sales Engineer,"Chicago, IL",201 - 500 ,2011,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,71,204,137.5,h2o.ai,IL,1,1,data scientist,na,P
+172,Lead Data Scientist,"Cincinnati, OH",201 - 500 ,1987,Company - Private,Advertising & Marketing,$100 to $500 million (USD),75,125,100,PatientPoint,OH,1,0,data scientist,sr,M
+174,MongoDB Data Engineer II,"Chattanooga, TN",5001 - 10000 ,1945,Nonprofit Organization,Insurance Carriers,$5 to $10 billion (USD),77,136,106.5,BlueCross BlueShield of Tennessee,TN,0,0,data engineer,na,na
+175,Senior Data Scientist Statistics,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),74,123,98.5,PNNL,WA,0,0,data scientist,sr,P
+177,Senior Data Analyst,"Clearwater, FL",501 - 1000 ,2010,Company - Private,Security Services,$100 to $500 million (USD),44,78,61,KnowBe4,FL,1,0,analyst,sr,M
+178,Senior Spark Engineer (Data Science),"Indianapolis, IN",51 - 200 ,2008,Company - Private,Consulting,Unknown / Non-Applicable,65,148,106.5,KSM Consulting,IN,1,0,data scientist,sr,na
+179,Data Engineer,"Cambridge, MA",51 - 200 ,2005,Company - Private,Internet,Unknown / Non-Applicable,59,110,84.5,Cogo Labs,MA,1,0,data engineer,na,na
+180,BI & Platform Analytics Manager,"Ewing, NJ",1001 - 5000 ,1846,Company - Public,Consumer Products Manufacturing,$2 to $5 billion (USD),85,134,109.5,Church & Dwight,NJ,1,0,Data scientist project manager,na,M
+181,Lead Data Scientist,"Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),124,204,164,MassMutual,MA,1,1,data scientist,sr,P
+182,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)","South San Francisco, CA",10000+ ,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,$10+ billion (USD),131,207,169,Genentech,CA,1,1,data scientist,sr,P
+183,Senior Data Scientist,"Cupertino, CA",5001 - 10000 ,1996,Company - Public,Telecommunications Services,$2 to $5 billion (USD),110,174,142,Juniper Networks,CA,1,0,data scientist,sr,P
+185,Pricipal Scientist Molecular and cellular biologist,"Boston, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),52,101,76.5,Takeda Pharmaceuticals,MA,0,0,other scientist,na,P
+187,"Data Scientist (Actuary, FSA or ASA)","Frederick, MD",501 - 1000 ,1981,Company - Private,Insurance Carriers,$500 million to $1 billion (USD),81,133,107,Legal & General America,MD,1,0,data scientist,na,M
+188,Staff Data Scientist,"San Jose, CA",10000+ ,1970,Company - Public,Computer Hardware & Software,$10+ billion (USD),132,211,171.5,Western Digital,CA,1,1,data scientist,na,M
+190,Senior Data Scientist / Machine Learning,"Dallas, TX",201 - 500 ,2013,Company - Private,Insurance Agencies & Brokerages,Unknown / Non-Applicable,73,119,96,Health IQ,TX,0,0,data scientist,sr,P
+191,Data Scientist - Health Data Analytics,"San Francisco, CA",51 - 200 ,2010,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,110,175,142.5,Nuna,CA,0,0,data scientist,na,na
+193,Senior Scientist - Neuroscience,"Marlborough, MA",1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,$1 to $2 billion (USD),100,190,145,Sunovion,MA,1,0,other scientist,sr,P
+194,Senior Data Analyst,"Herndon, VA",201 - 500 ,1993,Nonprofit Organization,Colleges & Universities,$25 to $50 million (USD),43,80,61.5,National Student Clearinghouse,VA,1,0,analyst,sr,M
+197,Medical Lab Scientist,"West Reading, PA",5001 - 10000 ,2017,Nonprofit Organization,Health Care Services & Hospitals,Unknown / Non-Applicable,35,49,42,Tower Health,PA,0,0,other scientist,na,na
+198,"Risk and Analytics IT, Data Scientist","Madison, WI",51 - 200 ,1951,Government,Investment Banking & Asset Management,$50 to $100 million (USD),91,149,120,State of Wisconsin Investment Board,WI,1,0,data scientist,na,na
+199,"Scientist, Analytical Development","Cambridge, MA",201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),42,82,62,Rubius Therapeutics,MA,0,0,other scientist,na,P
+200,Senior Data Scientist,"San Francisco, CA",5001 - 10000 ,1982,Company - Public,Computer Hardware & Software,$2 to $5 billion (USD),116,185,150.5,Autodesk,CA,1,1,data scientist,sr,P
+201,Analytics Manager,"Dearborn, MI",201 - 500 ,1967,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,59,116,87.5,OneMagnify,MI,0,0,Data scientist project manager,na,na
+202,Data Engineer,"Winter Park, FL",51 - 200 ,2006,Company - Public,Advertising & Marketing,$25 to $50 million (USD),48,95,71.5,IZEA,FL,1,1,data engineer,na,na
+203,Digital Marketing & ECommerce Data Analyst,"San Rafael, CA",51 - 200 ,2006,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",$100 to $500 million (USD),31,72,51.5,Vionic Group,CA,0,0,analyst,na,na
+204,Sr. Scientist - Digital & Image Analysis/Computational Pathology,"San Diego, CA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),105,198,151.5,Takeda Pharmaceuticals,CA,0,0,other scientist,sr,M
+205,Senior Data Analyst,"Hamilton, NJ",201 - 500 ,2014,Company - Private,IT Services,Unknown / Non-Applicable,55,100,77.5,Dodge Data & Analytics,NJ,1,0,analyst,sr,na
+206,Principal Scientist - Immunologist,"Boston, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),98,182,140,Takeda Pharmaceuticals,MA,0,0,other scientist,sr,M
+207,Senior Data Scientist,"Woodbridge, NJ",1001 - 5000 ,1982,Company - Private,Insurance Carriers,$10 to $25 million (USD),73,124,98.5,Plymouth Rock Assurance,NJ,0,0,data scientist,sr,M
+208,Principal Data Scientist with over 10 years experience,"San Francisco, CA",51 - 200 ,2017,Company - Private,IT Services,$5 to $10 million (USD),200,250,225,CA-One Tech Clou,CA,1,0,data scientist,sr,na
+209,MED TECH/LAB SCIENTIST - LABORATORY,"Lewes, DE",1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,$100 to $500 million (USD),43,70,56.5,Beebe Healthcare,DE,0,0,other scientist,na,na
+210,"Sr. Scientist, Quantitative Translational Sciences","Boston, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),117,206,161.5,Takeda Pharmaceuticals,MA,0,0,other scientist,sr,M
+211,Sr. Data Scientist II,"New York, NY",1001 - 5000 ,1948,Company - Public,Insurance Carriers,$1 to $2 billion (USD),111,183,147,Argo Group US,NY,1,1,data scientist,sr,na
+212,Excel / VBA / SQL Data Analyst,"Springfield, MO",501 - 1000 ,1961,Company - Private,Energy,$1 to $2 billion (USD),44,78,61,Associated Electric Cooperative,MO,0,0,analyst,na,M
+213,Machine Learning Research Scientist,"Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,81,159,120,Software Engineering Institute,PA,1,0,machine learning engineer,na,P
+215,"VP, Data Science","Phoenix, AZ",1001 - 5000 ,2008,Company - Public,Lending,$500 million to $1 billion (USD),83,166,124.5,PennyMac,AZ,1,0,data scientist,na,na
+216,Senior Data Scientist,"Burbank, CA",51 - 200 ,2009,Company - Private,Financial Analytics & Research,$50 to $100 million (USD),114,182,148,Zest AI,CA,1,0,data scientist,sr,M
+217,Radar Data Analyst,"Huntsville, AL",51 - 200 ,1996,Company - Private,Aerospace & Defense,$25 to $50 million (USD),42,76,59,DECISIVE ANALYTICS Corporation,AL,1,0,analyst,na,na
+221,PL Actuarial-Lead Data Scientist,"Worcester, MA",5001 - 10000 ,1852,Company - Public,Insurance Carriers,$5 to $10 billion (USD),114,179,146.5,The Hanover Insurance Group,MA,1,0,data scientist,sr,M
+224,Senior Data & Machine Learning Scientist,"Chicago, IL",501 - 1000 ,2015,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,100,166,133,Tempus Labs,IL,1,0,machine learning engineer,sr,P
+225,Principal Data Scientist (Computational Chemistry),"Salt Lake City, UT",51 - 200 ,2013,Company - Private,Biotech & Pharmaceuticals,$1 to $5 million (USD),108,173,140.5,Recursion Pharmaceuticals,UT,1,0,data scientist,sr,na
+228,"Principal Scientist, Chemistry & Immunology","Rochester, NY",10000+ ,2014,Hospital,Health Care Services & Hospitals,$500 million to $1 billion (USD),54,115,84.5,Rochester Regional Health,NY,0,0,other scientist,sr,P
+229,Software Engineer - Data Visualization,"Annapolis Junction, MD",51 - 200 ,2002,Company - Private,Computer Hardware & Software,$5 to $10 million (USD),60,127,93.5,ClearEdge,MD,0,0,na,na,M
+230,"Scientist/Senior Scientist, Autoimmune","Cambridge, MA",201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),90,179,134.5,Rubius Therapeutics,MA,0,0,other scientist,sr,P
+233,Staff Machine Learning Engineer,"San Francisco, CA",201 - 500 ,2007,Company - Private,Internet,$10 to $25 million (USD),138,224,181,Tapjoy,CA,1,0,machine learning engineer,na,na
+234,"Principal Scientist, Hematology","Rochester, NY",10000+ ,2014,Hospital,Health Care Services & Hospitals,$500 million to $1 billion (USD),54,115,84.5,Rochester Regional Health,NY,0,0,other scientist,sr,P
+235,Lead Data Engineer,"Mountain View, CA",51 - 200 ,2010,Company - Private,Internet,$50 to $100 million (USD),190,220,205,Credit Sesame,CA,1,0,data engineer,sr,na
+239,Marketing Data Analyst,"Highland, CA",1001 - 5000 ,1986,Company - Private,Gambling,$100 to $500 million (USD),35,62,48.5,San Manuel Casino,CA,0,0,analyst,na,M
+240,Medical Laboratory Scientist,"Burleson, TX",1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,$50 to $100 million (USD),37,52,44.5,Texas Health Huguley Hospital,TX,0,0,other scientist,na,na
+243,Senior Research Scientist-Machine Learning,"Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,81,167,124,Software Engineering Institute,PA,0,0,machine learning engineer,sr,P
+245,Analytics Manager - Data Mart,"Scotts Valley, CA",501 - 1000 ,1996,Nonprofit Organization,Health Care Services & Hospitals,$500 million to $1 billion (USD),42,86,64,Central California Alliance for Health,CA,0,0,Data scientist project manager,na,na
+246,Sr. Data Engineer - Contract-to-Hire (Java),"Knoxville, TN",10000+ ,1958,Company - Private,Gas Stations,$10+ billion (USD),69,127,98,Pilot Flying J Travel Centers LLC,TN,1,0,data engineer,sr,M
+247,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,"Millville, DE",1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,$100 to $500 million (USD),43,70,56.5,Beebe Healthcare,DE,0,0,other scientist,na,na
+248,Food Scientist - Developer,"Milwaukee, WI",501 - 1000 ,1964,Company - Private,Food & Beverage Manufacturing,Unknown / Non-Applicable,40,68,54,Palermo's Pizza,WI,0,0,other scientist,na,na
+250,Staff Scientist-Downstream Process Development,"Rockville, MD",201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,$25 to $50 million (USD),49,113,81,Advanced BioScience Laboratories,MD,0,0,other scientist,na,P
+251,Sr. Data Engineer,"Chicago, IL",1001 - 5000 ,2005,Company - Public,Transportation Management,$2 to $5 billion (USD),75,140,107.5,Echo Global Logistics,IL,0,0,data engineer,sr,na
+253,Data Scientist - Quantitative,"Chicago, IL",501 - 1000 ,1995,Company - Private,Logistics & Supply Chain,Unknown / Non-Applicable,86,139,112.5,Truckstop.com,IL,1,0,data scientist,na,M
+254,Data Scientist,"Herndon, VA",10000+ ,1995,Company - Public,Aerospace & Defense,$10+ billion (USD),66,112,89,Lockheed Martin,VA,1,1,data scientist,na,na
+255,Senior Research Statistician- Data Scientist,"Sheboygan, WI",1001 - 5000 ,1925,Company - Private,Insurance Carriers,$1 to $2 billion (USD),76,125,100.5,Acuity Insurance,WI,0,0,data scientist,sr,M
+256,"Business Data Analyst, SQL","New York, NY",1001 - 5000 ,2002,Company - Private,Travel Agencies,$2 to $5 billion (USD),44,86,65,Fareportal,NY,0,0,analyst,na,na
+257,Medical Technologist / Clinical Laboratory Scientist,"New Orleans, LA",10000+ ,1930,Government,Federal Agencies,Unknown / Non-Applicable,31,52,41.5,"Veterans Affairs, Veterans Health Administration",LA,0,0,other scientist,na,M
+258,Data Scientist,"Dallas, TX",201 - 500 ,1999,Subsidiary or Business Segment,Consulting,Unknown / Non-Applicable,53,92,72.5,Credera,TX,1,1,data scientist,na,M
+259,Senior Data Analyst,"Clearwater, FL",501 - 1000 ,2010,Company - Private,Security Services,$100 to $500 million (USD),44,78,61,KnowBe4,FL,1,0,analyst,sr,M
+260,BI & Platform Analytics Manager,"Ewing, NJ",1001 - 5000 ,1846,Company - Public,Consumer Products Manufacturing,$2 to $5 billion (USD),85,134,109.5,Church & Dwight,NJ,1,0,Data scientist project manager,na,M
+262,Data Engineer,"Cambridge, MA",51 - 200 ,2005,Company - Private,Internet,Unknown / Non-Applicable,59,110,84.5,Cogo Labs,MA,1,0,data engineer,na,na
+263,Data Scientist,"Chicago, IL",51 - 200 ,1992,Company - Private,Advertising & Marketing,$10 to $25 million (USD),64,111,87.5,Spectrum Communications and Consulting,IL,0,0,data scientist,na,na
+264,Data Analyst,"San Mateo, CA",1001 - 5000 ,1997,Company - Public,Video Games,$10+ billion (USD),65,120,92.5,NCSOFT,CA,1,1,analyst,na,na
+265,Associate Data Scientist/Computer Scientist,"McLean, VA",5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,$1 to $2 billion (USD),60,103,81.5,MITRE,VA,1,1,data scientist,na,na
+266,Business Intelligence Analyst / Developer,"Dayton, OH",1001 - 5000 ,1981,Company - Private,Trucking,Unknown / Non-Applicable,53,105,79,"Dayton Freight Lines, Inc.",OH,0,0,analyst,na,na
+267,Lead Data Scientist,"Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),124,204,164,MassMutual,MA,1,1,data scientist,sr,P
+268,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)","South San Francisco, CA",10000+ ,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,$10+ billion (USD),131,207,169,Genentech,CA,1,1,data scientist,sr,P
+269,Senior Data Scientist,"Cupertino, CA",5001 - 10000 ,1996,Company - Public,Telecommunications Services,$2 to $5 billion (USD),110,174,142,Juniper Networks,CA,1,0,data scientist,sr,P
+273,Pricipal Scientist Molecular and cellular biologist,"Boston, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),52,101,76.5,Takeda Pharmaceuticals,MA,0,0,other scientist,na,P
+274,Data Analyst,"San Francisco, CA",51 - 200 ,2013,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,48,90,69,TrueAccord,CA,1,0,analyst,na,na
+275,Data Analyst,"Meridian, ID",201 - 500 ,1984,Company - Private,Computer Hardware & Software,$50 to $100 million (USD),34,64,49,DRB Systems,ID,1,0,analyst,na,na
+276,Staff Data Scientist,"San Jose, CA",10000+ ,1970,Company - Public,Computer Hardware & Software,$10+ billion (USD),132,211,171.5,Western Digital,CA,1,1,data scientist,na,M
+277,"Data Scientist (Actuary, FSA or ASA)","Frederick, MD",501 - 1000 ,1981,Company - Private,Insurance Carriers,$500 million to $1 billion (USD),81,133,107,Legal & General America,MD,1,0,data scientist,na,M
+278,System and Data Analyst,"Cherry Hill, NJ",201 - 500 ,1996,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,42,76,59,Corcentric,NJ,0,0,analyst,na,M
+281,Data Scientist,"Indianapolis, IN",201 - 500 ,2019,Company - Private,IT Services,$25 to $50 million (USD),66,111,88.5,U.Group,IN,0,0,data scientist,na,M
+284,Digital Health Data Scientist,"Cambridge, MA",10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),63,110,86.5,Pfizer,MA,1,0,data scientist,na,na
+285,Data Scientist,"Louisville, KY",51 - 200 ,1935,Nonprofit Organization,Logistics & Supply Chain,$10 to $25 million (USD),63,105,84,SMC 3,KY,1,0,data scientist,na,M
+288,Data & Analytics Consultant (NYC),"New York, NY",201 - 500 ,1992,Company - Private,Consulting,$50 to $100 million (USD),91,138,114.5,Systems Evolution Inc.,NY,1,0,data analitics,na,M
+289,Senior Scientist - Neuroscience,"Marlborough, MA",1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,$1 to $2 billion (USD),100,190,145,Sunovion,MA,1,0,other scientist,sr,P
+290,Data Engineer,"Nashville, TN",1001 - 5000 ,2006,Company - Public,Internet,$100 to $500 million (USD),62,114,88,Eventbrite,TN,1,1,data engineer,na,na
+291,Big Data Engineer - Chicago - Future Opportunity,"Chicago, IL",501 - 1000 ,2001,Company - Private,Internet,$100 to $500 million (USD),71,129,100,Centro,IL,1,1,data engineer,na,na
+292,Senior Data Analyst,"Herndon, VA",201 - 500 ,1993,Nonprofit Organization,Colleges & Universities,$25 to $50 million (USD),43,80,61.5,National Student Clearinghouse,VA,1,0,analyst,sr,M
+293,Data Scientist,"Portland, OR",1001 - 5000 ,1999,Company - Public,Advertising & Marketing,$1 to $2 billion (USD),74,119,96.5,comScore,OR,1,0,data scientist,na,na
+295,Survey Data Analyst,"Minneapolis, MN",201 - 500 ,1992,Company - Private,Consulting,Unknown / Non-Applicable,55,97,76,SullivanCotter,MN,1,0,analyst,na,na
+296,Data Scientist,"Port Washington, NY",1001 - 5000 ,1966,Company - Private,Research & Development,$100 to $500 million (USD),15,16,15.5,NPD,NY,0,0,data scientist,na,na
+300,"Risk and Analytics IT, Data Scientist","Madison, WI",51 - 200 ,1951,Government,Investment Banking & Asset Management,$50 to $100 million (USD),91,149,120,State of Wisconsin Investment Board,WI,1,0,data scientist,na,na
+302,Data Scientist,"South San Francisco, CA",10000+ ,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,$10+ billion (USD),127,199,163,Genentech,CA,0,0,data scientist,na,M
+305,Lead Health Data Analyst - Front End,"Providence, RI",501 - 1000 ,1939,Nonprofit Organization,Insurance Carriers,Unknown / Non-Applicable,74,126,100,Blue Cross & Blue Shield of Rhode Island,RI,0,0,analyst,sr,na
+306,Research Scientist,"Omaha, NE",1001 - 5000 ,1917,Nonprofit Organization,Social Assistance,Unknown / Non-Applicable,33,72,52.5,Boys Town,NE,0,0,other scientist,na,P
+307,Medical Lab Scientist,"West Reading, PA",5001 - 10000 ,2017,Nonprofit Organization,Health Care Services & Hospitals,Unknown / Non-Applicable,35,49,42,Tower Health,PA,0,0,other scientist,na,na
+308,Junior Data Analyst,"Washington, DC",501 - 1000 ,1883,Nonprofit Organization,Health Care Services & Hospitals,Unknown / Non-Applicable,37,63,50,The HSC Health Care System,DC,0,0,analyst,jr,M
+309,SQL Data Engineer,"Austin, TX",201 - 500 ,2006,Company - Private,Consulting,$50 to $100 million (USD),67,119,93,Pro-Sphere Tek,TX,1,1,data engineer,na,M
+310,Data Scientist,"Cincinnati, OH",1001 - 5000 ,1887,Company - Private,Insurance Agencies & Brokerages,$2 to $5 billion (USD),72,117,94.5,Ameritas Life Insurance Corp,OH,1,0,data scientist,na,na
+311,Senior Data Scientist,"San Francisco, CA",5001 - 10000 ,1982,Company - Public,Computer Hardware & Software,$2 to $5 billion (USD),116,185,150.5,Autodesk,CA,1,1,data scientist,sr,P
+312,Data Scientist,"Raleigh, NC",1001 - 5000 ,2004,Company - Public,Insurance Carriers,$5 to $10 billion (USD),78,126,102,Genworth,NC,1,1,data scientist,na,M
+313,"Scientist, Analytical Development","Cambridge, MA",201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),42,82,62,Rubius Therapeutics,MA,0,0,other scientist,na,P
+314,Analytics Manager,"Dearborn, MI",201 - 500 ,1967,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,59,116,87.5,OneMagnify,MI,0,0,Data scientist project manager,na,na
+316,Clinical Data Scientist,"Groton, CT",10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),63,105,84,Pfizer,CT,0,0,data scientist,na,M
+317,Data Scientist,"Herndon, VA",501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),109,177,143,Novetta,VA,1,0,data scientist,na,na
+319,Data Engineer,"Winter Park, FL",51 - 200 ,2006,Company - Public,Advertising & Marketing,$25 to $50 million (USD),48,95,71.5,IZEA,FL,1,1,data engineer,na,na
+320,Data Scientist,"Oakland, CA",51 - 200 ,2000,Company - Private,Insurance Carriers,$10 to $25 million (USD),83,133,108,Trace Data,CA,1,0,data scientist,na,M
+322,Sr. Scientist - Digital & Image Analysis/Computational Pathology,"San Diego, CA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),105,198,151.5,Takeda Pharmaceuticals,CA,0,0,other scientist,sr,M
+323,Digital Marketing & ECommerce Data Analyst,"San Rafael, CA",51 - 200 ,2006,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",$100 to $500 million (USD),31,72,51.5,Vionic Group,CA,0,0,analyst,na,na
+324,Principal Scientist - Immunologist,"Boston, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),98,182,140,Takeda Pharmaceuticals,MA,0,0,other scientist,sr,M
+325,Senior Data Analyst,"Hamilton, NJ",201 - 500 ,2014,Company - Private,IT Services,Unknown / Non-Applicable,55,100,77.5,Dodge Data & Analytics,NJ,1,0,analyst,sr,na
+326,Insurance Financial Data Analyst,"Boise, ID",501 - 1000 ,2004,Company - Private,Investment Banking & Asset Management,$50 to $100 million (USD),45,82,63.5,Clearwater Analytics,ID,0,0,analyst,na,na
+330,Data Scientist,"Oak Ridge, TN",5001 - 10000 ,1850,Company - Public,Aerospace & Defense,$500 million to $1 billion (USD),70,122,96,BWX Technologies,TN,1,0,data scientist,na,M
+331,Principal Data Scientist with over 10 years experience,"San Francisco, CA",51 - 200 ,2017,Company - Private,IT Services,$5 to $10 million (USD),200,250,225,CA-One Tech Clou,CA,1,0,data scientist,sr,na
+332,Data Engineer,"Agoura Hills, CA",1001 - 5000 ,2008,Company - Public,Lending,$500 million to $1 billion (USD),70,132,101,PennyMac,CA,1,0,data engineer,na,na
+333,Senior Data Scientist,"Woodbridge, NJ",1001 - 5000 ,1982,Company - Private,Insurance Carriers,$10 to $25 million (USD),73,124,98.5,Plymouth Rock Assurance,NJ,0,0,data scientist,sr,M
+334,Data Engineer I - Azure,"Pella, IA",1001 - 5000 ,1948,Company - Private,Industrial Manufacturing,$1 to $2 billion (USD),54,101,77.5,Vermeer,IA,0,1,data engineer,na,na
+335,"Sr. Scientist, Quantitative Translational Sciences","Boston, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),117,206,161.5,Takeda Pharmaceuticals,MA,0,0,other scientist,sr,M
+337,MED TECH/LAB SCIENTIST - LABORATORY,"Lewes, DE",1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,$100 to $500 million (USD),43,70,56.5,Beebe Healthcare,DE,0,0,other scientist,na,na
+339,Sr. Data Scientist II,"New York, NY",1001 - 5000 ,1948,Company - Public,Insurance Carriers,$1 to $2 billion (USD),111,183,147,Argo Group US,NY,1,1,data scientist,sr,na
+341,Data Scientist,"San Ramon, CA",10000+ ,1997,Company - Public,IT Services,Unknown / Non-Applicable,68,112,90,L&T Infotech,CA,1,0,data scientist,na,na
+342,Information Security Data Analyst,"Red Bank, NJ",501 - 1000 ,1902,Company - Public,Banks & Credit Unions,$5 to $10 billion (USD),42,74,58,OceanFirst Financial,NJ,0,0,analyst,na,na
+344,Excel / VBA / SQL Data Analyst,"Springfield, MO",501 - 1000 ,1961,Company - Private,Energy,$1 to $2 billion (USD),44,78,61,Associated Electric Cooperative,MO,0,0,analyst,na,M
+346,Machine Learning Research Scientist,"Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,81,159,120,Software Engineering Institute,PA,1,0,machine learning engineer,na,P
+347,Data Scientist,"New York, NY",1001 - 5000 ,1744,Company - Public,Auctions & Galleries,$500 million to $1 billion (USD),95,161,128,Sotheby's,NY,1,0,data scientist,na,na
+348,Data Scientist,"Hillsboro, OR",1001 - 5000 ,1952,Company - Private,Banks & Credit Unions,$100 to $500 million (USD),75,124,99.5,First Tech Federal Credit Union,OR,1,0,data scientist,na,na
+349,Data Scientist,"Detroit, MI",1001 - 5000 ,1997,Company - Private,Real Estate,$500 million to $1 billion (USD),72,120,96,Amrock,MI,1,0,data scientist,na,M
+350,Data Scientist,"Washington, DC",201 - 500 ,2003,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),76,126,101,Vanda Pharmaceuticals,DC,1,0,data scientist,na,M
+351,Senior Data Scientist,"Burbank, CA",51 - 200 ,2009,Company - Private,Financial Analytics & Research,$50 to $100 million (USD),114,182,148,Zest AI,CA,1,0,data scientist,sr,M
+352,"Data Scientist, Senior","Fort Belvoir, VA",501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),108,176,142,Novetta,VA,1,0,data scientist,sr,na
+354,"VP, Data Science","Phoenix, AZ",1001 - 5000 ,2008,Company - Public,Lending,$500 million to $1 billion (USD),83,166,124.5,PennyMac,AZ,1,0,data scientist,na,na
+355,Radar Data Analyst,"Huntsville, AL",51 - 200 ,1996,Company - Private,Aerospace & Defense,$25 to $50 million (USD),42,76,59,DECISIVE ANALYTICS Corporation,AL,1,0,analyst,na,na
+356,CONSULTANT– DATA ANALYTICS GROUP,"San Diego, CA",51 - 200 ,1987,Company - Private,Consulting,$10 to $25 million (USD),37,68,52.5,Opinion Dynamics,CA,1,0,data analitics,na,na
+357,Data Engineer,"Houston, TX",501 - 1000 ,1982,Company - Private,IT Services,$50 to $100 million (USD),52,99,75.5,Applied Information Sciences,TX,0,1,data engineer,na,na
+358,Senior Data Scientist,"Armonk, NY",10000+ ,1863,Company - Public,Insurance Agencies & Brokerages,$10+ billion (USD),105,173,139,Swiss Re,NY,1,0,data scientist,sr,M
+362,"Data Engineer, Data Engineering and Artifical Intelligence","Cambridge, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),71,134,102.5,Takeda Pharmaceuticals,MA,1,1,data engineer,na,na
+364,Staff Scientist,"Columbia, SC",201 - 500 ,1929,Company - Private,Architectural & Engineering Services,$25 to $50 million (USD),39,82,60.5,WK Dickson,SC,0,0,other scientist,na,na
+366,PL Actuarial-Lead Data Scientist,"Worcester, MA",5001 - 10000 ,1852,Company - Public,Insurance Carriers,$5 to $10 billion (USD),114,179,146.5,The Hanover Insurance Group,MA,1,0,data scientist,sr,M
+367,"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry","South San Francisco, CA",10000+ ,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,$10+ billion (USD),88,162,125,Genentech,CA,0,0,other scientist,na,P
+368,Sr. Data Analyst,"Springfield, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),60,102,81,MassMutual,MA,1,0,analyst,sr,na
+369,Senior Data & Machine Learning Scientist,"Chicago, IL",501 - 1000 ,2015,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,100,166,133,Tempus Labs,IL,1,0,machine learning engineer,sr,P
+370,Program/Data Analyst,"Washington, DC",10000+ ,1996,Subsidiary or Business Segment,IT Services,$10+ billion (USD),55,99,77,General Dynamics Information Technology,DC,0,0,analyst,na,M
+371,Data Engineer,"Herndon, VA",5001 - 10000 ,1968,Company - Public,Research & Development,$1 to $2 billion (USD),67,117,92,ManTech,VA,0,1,data engineer,na,na
+372,Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,"Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),92,150,121,Novartis,MA,0,0,data scientist,sr,na
+375,"Principal Data Engineer, Data Platform & Insights","San Francisco, CA",5001 - 10000 ,1982,Company - Public,Computer Hardware & Software,$2 to $5 billion (USD),116,209,162.5,Autodesk,CA,1,0,data engineer,sr,na
+376,RESEARCH SCIENTIST - BIOLOGICAL SAFETY,"San Antonio, TX",1001 - 5000 ,1947,Nonprofit Organization,Research & Development,$500 million to $1 billion (USD),38,82,60,Southwest Research Institute,TX,0,0,other scientist,na,na
+380,Data Scientist / Machine Learning Expert,"Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),86,143,114.5,Novartis,MA,1,0,data scientist,na,na
+381,Data Scientist,"Sunnyvale, CA",5001 - 10000 ,1996,Company - Public,Telecommunications Services,$2 to $5 billion (USD),93,149,121,Juniper Networks,CA,1,0,data scientist,na,M
+382,Senior Data Scientist,"Dallas, TX",501 - 1000 ,1993,Subsidiary or Business Segment,Advertising & Marketing,$50 to $100 million (USD),84,136,110,The Integer Group,TX,0,0,data scientist,sr,M
+384,Clinical Data Analyst,"Portsmouth, VA",5001 - 10000 ,1968,Company - Public,Research & Development,$1 to $2 billion (USD),52,89,70.5,ManTech,VA,0,0,analyst,na,na
+387,Computational Chemist/Data Scientist,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),56,97,76.5,PNNL,WA,1,0,data scientist,na,P
+388,Data Engineer,"Springfield, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),65,119,92,MassMutual,MA,1,0,data engineer,na,na
+390,Principal Data Scientist (Computational Chemistry),"Salt Lake City, UT",51 - 200 ,2013,Company - Private,Biotech & Pharmaceuticals,$1 to $5 million (USD),108,173,140.5,Recursion Pharmaceuticals,UT,1,0,data scientist,sr,na
+391,Product Engineer – Data Science,"Arlington, VA",1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),63,101,82,Esri,VA,1,0,data scientist,na,M
+392,"Principal Scientist, Chemistry & Immunology","Rochester, NY",10000+ ,2014,Hospital,Health Care Services & Hospitals,$500 million to $1 billion (USD),54,115,84.5,Rochester Regional Health,NY,0,0,other scientist,sr,P
+394,"Scientist/Senior Scientist, Autoimmune","Cambridge, MA",201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),90,179,134.5,Rubius Therapeutics,MA,0,0,other scientist,sr,P
+396,Data Scientist,"San Francisco, CA",201 - 500 ,2008,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,127,202,164.5,Samba TV,CA,0,0,data scientist,na,na
+397,Market Data Analyst,"West Palm Beach, FL",201 - 500 ,1991,Company - Public,Telecommunications Manufacturing,$50 to $100 million (USD),31,57,44,SV Microwave,FL,0,0,analyst,na,M
+398,Software Engineer - Data Visualization,"Annapolis Junction, MD",51 - 200 ,2002,Company - Private,Computer Hardware & Software,$5 to $10 million (USD),60,127,93.5,ClearEdge,MD,0,0,na,na,M
+400,Staff Data Engineer,"Austin, TX",501 - 1000 ,2010,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,105,194,149.5,Sumo Logic,TX,0,0,data engineer,na,M
+401,Associate Data Engineer,"Washington, DC",1001 - 5000 ,2007,Company - Private,Research & Development,Unknown / Non-Applicable,45,86,65.5,EAB,DC,0,0,data engineer,na,M
+403,Senior Data Scientist,"Charlotte, NC",1001 - 5000 ,2017,Company - Public,Insurance Carriers,Unknown / Non-Applicable,95,154,124.5,Brighthouse Financial,NC,1,0,data scientist,sr,M
+406,Staff BI and Data Engineer,"San Jose, CA",51 - 200 ,1998,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,80,148,114,Affinity Solutions,CA,1,0,data engineer,na,M
+407,Marketing Data Analyst,"Exton, PA",501 - 1000 ,1937,Nonprofit Organization,Banks & Credit Unions,Unknown / Non-Applicable,36,62,49,Citadel Federal Credit Union,PA,1,0,analyst,na,na
+409,"Principal Scientist, Hematology","Rochester, NY",10000+ ,2014,Hospital,Health Care Services & Hospitals,$500 million to $1 billion (USD),54,115,84.5,Rochester Regional Health,NY,0,0,other scientist,sr,P
+410,Data Analyst,"Alexandria, VA",501 - 1000 ,1989,Company - Private,IT Services,$100 to $500 million (USD),50,92,71,CALIBRE Systems,VA,0,0,analyst,na,na
+411,"Director - Data, Privacy and AI Governance","Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),67,135,101,MassMutual,MA,0,0,director,na,na
+412,Data Scientist,"Redlands, CA",1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),82,132,107,Esri,CA,1,1,data scientist,na,M
+413,Data Scientist,"Ipswich, MA",201 - 500 ,1974,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,85,140,112.5,New England Biolabs,MA,1,0,data scientist,na,na
+414,Staff Machine Learning Engineer,"San Francisco, CA",201 - 500 ,2007,Company - Private,Internet,$10 to $25 million (USD),138,224,181,Tapjoy,CA,1,0,machine learning engineer,na,na
+415,Information Security Data Analyst,"Chicago, IL",10000+ ,1928,Company - Public,Computer Hardware & Software,$5 to $10 billion (USD),42,80,61,Motorola Solutions,IL,1,1,analyst,na,M
+416,Lead Data Engineer,"Mountain View, CA",51 - 200 ,2010,Company - Private,Internet,$50 to $100 million (USD),190,220,205,Credit Sesame,CA,1,0,data engineer,sr,na
+417,Scientist Manufacturing - Kentucky BioProcessing,"Owensboro, KY",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),68,139,103.5,Reynolds American,KY,0,0,other scientist,na,na
+419,Data Analytics Project Manager,"Springfield, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),34,92,63,MassMutual,MA,0,0,Data scientist project manager,na,M
+420,Consultant - Analytics Consulting,"Hartford, CT",10000+ ,1981,Company - Public,IT Services,$10+ billion (USD),54,71,62.5,Infosys,CT,0,0,data analitics,na,na
+421,Data Engineer,"Orange, CA",501 - 1000 ,2013,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,65,124,94.5,Alignment Healthcare,CA,1,1,data engineer,na,M
+425,Marketing Data Analyst,"Highland, CA",1001 - 5000 ,1986,Company - Private,Gambling,$100 to $500 million (USD),35,62,48.5,San Manuel Casino,CA,0,0,analyst,na,M
+426,Senior Scientist (Neuroscience),"Marlborough, MA",1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,$1 to $2 billion (USD),109,200,154.5,Sunovion,MA,1,0,other scientist,sr,P
+427,Medical Laboratory Scientist,"Burleson, TX",1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,$50 to $100 million (USD),37,52,44.5,Texas Health Huguley Hospital,TX,0,0,other scientist,na,na
+428,Machine Learning Engineer - Regulatory,"Lenexa, KS",501 - 1000 ,1973,Company - Public,Stock Exchanges,$500 million to $1 billion (USD),61,113,87,Cboe Global Markets,KS,1,1,machine learning engineer,na,na
+430,Data Engineer,"New York, NY",501 - 1000 ,2003,Company - Private,Research & Development,Unknown / Non-Applicable,43,86,64.5,Guidepoint,NY,1,0,data engineer,na,na
+433,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence","Cambridge, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),113,196,154.5,Takeda Pharmaceuticals,MA,0,1,data engineer,na,M
+434,Senior Research Scientist-Machine Learning,"Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,81,167,124,Software Engineering Institute,PA,0,0,machine learning engineer,sr,P
+435,Senior Data Scientist,"Chicago, IL",201 - 500 ,2008,Company - Private,Consulting,$50 to $100 million (USD),97,160,128.5,Maven Wave Partners,IL,1,1,data scientist,sr,na
+437,Clinical Laboratory Scientist,"Vail, CO",501 - 1000 ,1966,Hospital,Health Care Services & Hospitals,$100 to $500 million (USD),49,81,65,Vail Health,CO,0,0,other scientist,na,na
+442,Analytics Manager - Data Mart,"Scotts Valley, CA",501 - 1000 ,1996,Nonprofit Organization,Health Care Services & Hospitals,$500 million to $1 billion (USD),42,86,64,Central California Alliance for Health,CA,0,0,Data scientist project manager,na,na
+443,Sr. Data Engineer - Contract-to-Hire (Java),"Knoxville, TN",10000+ ,1958,Company - Private,Gas Stations,$10+ billion (USD),69,127,98,Pilot Flying J Travel Centers LLC,TN,1,0,data engineer,sr,M
+444,Data Scientist - Algorithms & Inference,"San Francisco, CA",51 - 200 ,2010,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,110,175,142.5,Nuna,CA,0,0,data scientist,na,M
+446,Senior Data Scientist - R&D Oncology,"New York, NY",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),102,172,137,AstraZeneca,NY,1,0,data scientist,sr,P
+447,Data Engineer,"Denver, CO",501 - 1000 ,1915,Nonprofit Organization,Insurance Carriers,$500 million to $1 billion (USD),74,124,99,Pinnacol Assurance,CO,1,0,data engineer,na,M
+448,Food Scientist - Developer,"Milwaukee, WI",501 - 1000 ,1964,Company - Private,Food & Beverage Manufacturing,Unknown / Non-Applicable,40,68,54,Palermo's Pizza,WI,0,0,other scientist,na,na
+449,Senior Data Scientist,"Natick, MA",1001 - 5000 ,1984,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),108,171,139.5,MathWorks,MA,1,0,data scientist,sr,M
+450,Data Engineer,"Rockville, MD",201 - 500 ,1999,Company - Private,IT Services,$25 to $50 million (USD),76,142,109,MetroStar Systems,MD,0,0,data engineer,na,M
+452,"Director II, Data Science - GRM Actuarial","Chicago, IL",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),202,306,254,Liberty Mutual Insurance,IL,1,0,data scientist,na,M
+454,"Scientist, Molecular/Cellular Biologist","South San Francisco, CA",201 - 500 ,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Unknown / Non-Applicable,49,97,73,Audentes Therapeutics,CA,0,0,other scientist,na,P
+455,Staff Scientist-Downstream Process Development,"Rockville, MD",201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,$25 to $50 million (USD),49,113,81,Advanced BioScience Laboratories,MD,0,0,other scientist,na,P
+456,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,"Millville, DE",1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,$100 to $500 million (USD),43,70,56.5,Beebe Healthcare,DE,0,0,other scientist,na,na
+458,Scientist - Analytical Services,"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),65,134,99.5,Reynolds American,NC,0,0,other scientist,na,na
+459,Associate Data Analyst- Graduate Development Program,"Richfield, OH",501 - 1000 ,1989,Company - Private,Insurance Carriers,$500 million to $1 billion (USD),32,59,45.5,National Interstate,OH,0,0,analyst,na,na
+461,Sr. Data Engineer,"Indianapolis, IN",51 - 200 ,1996,Company - Private,Consulting,$25 to $50 million (USD),87,158,122.5,Moser Consulting,IN,1,1,data engineer,sr,na
+462,Senior Insurance Data Scientist,"Chicago, IL",5001 - 10000 ,1968,Company - Public,Financial Analytics & Research,$1 to $2 billion (USD),107,173,140,TransUnion,IL,1,0,data scientist,sr,na
+463,Senior Data Science Systems Engineer,"Hampton, VA",5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,$1 to $2 billion (USD),56,99,77.5,MITRE,VA,0,0,data scientist,sr,P
+466,Senior Scientist - Regulatory Submissions,"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),80,155,117.5,Reynolds American,NC,0,0,other scientist,sr,M
+467,Scientist - Biomarker and Flow Cytometry,"San Diego, CA",501 - 1000 ,2006,Company - Private,Biotech & Pharmaceuticals,$50 to $100 million (USD),43,98,70.5,Crown Bioscience,CA,0,0,other scientist,na,M
+468,Revenue Analytics Manager,"San Francisco, CA",51 - 200 ,2011,Company - Private,Computer Hardware & Software,$25 to $50 million (USD),45,78,61.5,HOVER,CA,0,0,Data scientist project manager,na,na
+469,"Associate Scientist, LC/MS Biologics","Ithaca, NY",1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,44,96,70,Q2 Solutions,NY,0,0,other scientist,na,na
+470,Sr. Scientist Method Development,"Marietta, GA",1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,50,110,80,Q2 Solutions,GA,0,0,other scientist,sr,na
+471,IT - Data Engineer II,"Quincy, MA",1001 - 5000 ,1988,Company - Private,Insurance Carriers,$100 to $500 million (USD),61,119,90,Arbella Insurance,MA,0,1,data engineer,na,na
+473,"Project Scientist - Auton Lab, Robotics Institute","Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,56,91,73.5,Software Engineering Institute,PA,0,0,other scientist,na,P
+476,Data Scientist,"Fort Lauderdale, FL",501 - 1000 ,1984,Subsidiary or Business Segment,Advertising & Marketing,Unknown / Non-Applicable,68,114,91,Zimmerman Advertising,FL,1,1,data scientist,na,na
+479,"Enterprise Architect, Data","Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),101,158,129.5,MassMutual,MA,1,1,na,na,na
+482,"Senior Manager, Epidemiologic Data Scientist","New York, NY",10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),125,210,167.5,Pfizer,NY,0,0,data scientist,sr,M
+483,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,"Green Bay, WI",1001 - 5000 ,1870,Company - Public,Banks & Credit Unions,$1 to $2 billion (USD),43,77,60,Associated Banc-Corp,WI,0,0,analyst,na,na
+485,Lead Data Scientist,"Burbank, CA",51 - 200 ,2009,Company - Private,Financial Analytics & Research,$50 to $100 million (USD),139,221,180,Zest AI,CA,1,0,data scientist,sr,M
+486,"Marketing Data Analyst, May 2020 Undergrad","New York, NY",1001 - 5000 ,2002,Company - Private,Travel Agencies,$2 to $5 billion (USD),44,86,65,Fareportal,NY,0,0,analyst,na,na
+487,Senior Data Engineer,"Durham, NC",5001 - 10000 ,1990,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),78,147,112.5,Genesys,NC,1,1,data engineer,sr,na
+488,Senior Data Analyst,"New York, NY",201 - 500 ,2010,Company - Private,"Department, Clothing, & Shoe Stores",$100 to $500 million (USD),65,110,87.5,Moda Operandi,NY,1,0,analyst,sr,na
+489,Data Modeler - Data Solutions Engineer,"Indianapolis, IN",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),37,66,51.5,Liberty Mutual Insurance,IN,1,0,data modeler,na,M
+490,Associate Environmental Scientist - Wildlife Biologist,"Clovis, CA",51 - 200 ,1972,Company - Private,Architectural & Engineering Services,$10 to $25 million (USD),38,64,51,QK,CA,0,0,other scientist,na,na
+491,"Associate, Data Science, Internal Audit","Boston, MA",10000+ ,1856,Company - Private,Banks & Credit Unions,$10+ billion (USD),43,82,62.5,Santander,MA,1,0,data scientist,na,M
+492,Sr Data Engineer (Sr BI Developer),"Chandler, AZ",501 - 1000 ,1981,Company - Public,Health Care Services & Hospitals,Unknown / Non-Applicable,90,110,100,Tivity Health,AZ,0,1,data engineer,sr,na
+493,Data Engineer,"Chantilly, VA",51 - 200 ,2004,Company - Private,IT Services,Unknown / Non-Applicable,61,109,85,BRMi,VA,1,1,data engineer,na,na
+494,Senior LiDAR Data Scientist,"Orlando, FL",201 - 500 ,2012,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,93,151,122,Luminar Technologies,FL,1,0,data scientist,sr,M
+495,Salesforce Analytics Consultant,"Chicago, IL",501 - 1000 ,1995,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),52,81,66.5,"Emtec, Inc.",IL,1,0,data analitics,na,M
+496,"Technology-Minded, Data Professional Opportunities","Columbia, MO",1001 - 5000 ,2002,Company - Private,Lending,Unknown / Non-Applicable,40,101,70.5,Veterans United Home Loans,MO,0,1,na,na,na
+497,Senior Data Engineer,"Austin, TX",51 - 200 ,2010,Company - Private,Security Services,$10 to $25 million (USD),97,180,138.5,Praetorian,TX,1,0,data engineer,sr,na
+498,Managing Data Scientist/ML Engineer,"Boston, MA",1001 - 5000 ,1943,Company - Private,Consulting,$100 to $500 million (USD),81,134,107.5,PA Consulting,MA,0,1,data scientist,na,na
+499,"Scientist, Pharmacometrics","Cambridge, MA",501 - 1000 ,2008,Company - Public,Biotech & Pharmaceuticals,$50 to $100 million (USD),84,157,120.5,Agios Pharmaceuticals,MA,0,0,other scientist,na,M
+500,Staff Scientist- Upstream PD,"Rockville, MD",201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,$25 to $50 million (USD),49,113,81,Advanced BioScience Laboratories,MD,0,0,other scientist,na,na
+501,Scientist Manufacturing Pharma - Kentucky BioProcessing,"Owensboro, KY",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),68,139,103.5,Reynolds American,KY,0,0,other scientist,na,na
+502,Sr. Data Engineer,"Chicago, IL",1001 - 5000 ,2005,Company - Public,Transportation Management,$2 to $5 billion (USD),75,140,107.5,Echo Global Logistics,IL,0,0,data engineer,sr,na
+505,Lead Big Data Engineer,"San Francisco, CA",1001 - 5000 ,2007,Company - Private,Internet,Unknown / Non-Applicable,121,203,162,Glassdoor,CA,1,1,data engineer,sr,na
+506,Product Engineer – Spatial Data Science and Statistical Analysis,"Redlands, CA",1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),52,85,68.5,Esri,CA,1,0,data scientist,na,M
+507,Sr Software Engineer (Data Scientist),"Westlake, OH",10000+ ,1978,Company - Public,Insurance Carriers,$5 to $10 billion (USD),81,140,110.5,Assurant,OH,0,0,data scientist,sr,na
+508,College Hire - Data Scientist - Open to December 2019 Graduates,"Peoria, IL",10000+ ,1925,Company - Public,Industrial Manufacturing,$10+ billion (USD),63,99,81,Caterpillar,IL,0,0,data scientist,na,na
+509,Senior Data Scientist,"Chicago, IL",1001 - 5000 ,1993,Company - Public,Real Estate,$2 to $5 billion (USD),110,150,130,Equity Residential,IL,1,1,data scientist,sr,M
+512,Senior Data Scientist Artificial Intelligence,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),60,101,80.5,PNNL,WA,0,0,data scientist,sr,M
+516,Analytics - Business Assurance Data Analyst,"Cedar Rapids, IA",501 - 1000 ,1992,Company - Private,Lending,$100 to $500 million (USD),31,55,43,GreatAmerica Financial Services,IA,0,0,analyst,na,na
+517,"Associate Director/Director, Safety Scientist","Cambridge, MA",201 - 500 ,2003,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,102,178,140,Acceleron Pharma,MA,0,0,director,na,P
+519,Data Analyst Senior,"Philadelphia, PA",5001 - 10000 ,1983,Company - Private,Insurance Carriers,$5 to $10 billion (USD),48,85,66.5,AmeriHealth Caritas,PA,0,0,analyst,sr,M
+520,Lead Data Engineer (Python),"San Francisco, CA",51 - 200 ,2006,Company - Private,Staffing & Outsourcing,$1 to $5 million (USD),66,123,94.5,Strategic Employment Partners,CA,1,0,data engineer,sr,na
+521,Senior Data Scientist 4 Artificial Intelligence,"Seattle, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),92,146,119,PNNL,WA,0,0,data scientist,sr,M
+522,Medical Lab Scientist - MLT,"Omaha, NE",10000+ ,1996,Nonprofit Organization,Health Care Services & Hospitals,$10+ billion (USD),43,60,51.5,Catholic Health Initiatives,NE,0,0,other scientist,na,na
+524,"Director II, Data Science - GRS Predictive Analytics","Chicago, IL",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),150,239,194.5,Liberty Mutual Insurance,IL,1,0,data scientist,na,P
+525,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,"San Antonio, TX",1001 - 5000 ,1947,Nonprofit Organization,Research & Development,$500 million to $1 billion (USD),52,91,71.5,Southwest Research Institute,TX,1,0,other scientist,sr,na
+528,Senior Scientist - Toxicologist - Product Integrity (Stewardship),"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),47,101,74,Reynolds American,NC,0,0,other scientist,sr,M
+530,Systems Engineer II - Data Analyst,"Huntsville, AL",10000+ ,1922,Company - Public,Aerospace & Defense,$10+ billion (USD),49,76,62.5,Raytheon,AL,0,0,analyst,na,na
+532,Senior Research Analytical Scientist-Non-Targeted Analysis,"Durham, NC",1001 - 5000 ,1958,Nonprofit Organization,Research & Development,$500 million to $1 billion (USD),43,88,65.5,RTI International,NC,0,0,other scientist,sr,P
+533,Director Data Science,"Fort Lee, NJ",1001 - 5000 ,1989,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,124,199,161.5,TRANZACT,NJ,1,0,data scientist,na,na
+534,Sr Data Analyst - IT,"Blue Bell, PA",1001 - 5000 ,2003,Other Organization,Biotech & Pharmaceuticals,$100 to $500 million (USD),52,93,72.5,United BioSource,PA,0,0,analyst,sr,na
+535,Senior Data Engineer,"San Francisco, CA",51 - 200 ,2008,Company - Public,Computer Hardware & Software,$10 to $25 million (USD),97,181,139,Figure Eight,CA,1,0,data engineer,sr,na
+537,Senior Data Engineer,"San Francisco, CA",201 - 500 ,2007,Company - Private,Internet,$10 to $25 million (USD),100,173,136.5,Tapjoy,CA,0,0,data engineer,sr,na
+538,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,"New York, NY",1001 - 5000 ,2002,Company - Private,Travel Agencies,$2 to $5 billion (USD),53,96,74.5,Fareportal,NY,1,0,data scientist,na,na
+539,Senior Scientist - Biostatistician,"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),65,96,80.5,Reynolds American,NC,0,0,other scientist,sr,M
+540,Data Scientist,"Albuquerque, NM",5001 - 10000 ,1870,Company - Public,Biotech & Pharmaceuticals,$1 to $2 billion (USD),56,95,75.5,Sartorius,NM,1,0,data scientist,na,M
+541,Data Scientist,"Saint Louis, MO",51 - 200 ,2016,Company - Private,IT Services,Unknown / Non-Applicable,111,176,143.5,1904labs,MO,1,0,data scientist,na,na
+542,Data Scientist,"Springfield, VA",51 - 200 ,2014,Company - Private,Aerospace & Defense,$10 to $25 million (USD),75,127,101,Royce Geospatial,VA,1,0,data scientist,na,na
+543,Data Engineer,"Springfield, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),65,119,92,MassMutual,MA,1,0,data engineer,na,na
+544,Computational Chemist/Data Scientist,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),56,97,76.5,PNNL,WA,1,0,data scientist,na,P
+545,Principal Data Scientist (Computational Chemistry),"Salt Lake City, UT",51 - 200 ,2013,Company - Private,Biotech & Pharmaceuticals,$1 to $5 million (USD),108,173,140.5,Recursion Pharmaceuticals,UT,1,0,data scientist,sr,na
+546,Data Scientist,"Jersey City, NJ",10000+ ,1812,Company - Public,Investment Banking & Asset Management,$10+ billion (USD),94,139,116.5,Citi,NJ,0,0,data scientist,na,na
+548,Principal Machine Learning Scientist,"San Francisco, CA",501 - 1000 ,1999,Subsidiary or Business Segment,Computer Hardware & Software,Unknown / Non-Applicable,176,289,232.5,Sage Intacct,CA,1,0,machine learning engineer,sr,P
+549,Data Scientist,"San Francisco, CA",51 - 200 ,2016,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,92,149,120.5,Scale AI,CA,1,0,data scientist,na,P
+550,Product Engineer – Data Science,"Arlington, VA",1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),63,101,82,Esri,VA,1,0,data scientist,na,M
+552,"Principal Scientist, Chemistry & Immunology","Rochester, NY",10000+ ,2014,Hospital,Health Care Services & Hospitals,$500 million to $1 billion (USD),54,115,84.5,Rochester Regional Health,NY,0,0,other scientist,sr,P
+554,Data Scientist,"Emeryville, CA",10000+ ,2007,Company - Public,IT Services,Unknown / Non-Applicable,118,188,153,Change Healthcare,CA,1,0,data scientist,na,P
+555,Data Scientist,"Palo Alto, CA",501 - 1000 ,2008,Company - Private,Internet,Unknown / Non-Applicable,108,146,127,MZ,CA,1,1,data scientist,na,M
+556,Data Scientist,"Santa Barbara, CA",51 - 200 ,2010,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,65,106,85.5,HG Insights,CA,1,1,data scientist,na,P
+557,Data Scientist,"Carle Place, NY",1001 - 5000 ,1976,Company - Public,Wholesale,$1 to $2 billion (USD),55,98,76.5,"1-800-FLOWERS.COM, Inc.",NY,1,0,data scientist,na,na
+558,Data Scientist,"New York, NY",1001 - 5000 ,1992,Subsidiary or Business Segment,TV Broadcast & Cable Networks,$500 million to $1 billion (USD),94,162,128,CBS Interactive,NY,1,1,data scientist,na,na
+561,"Scientist/Senior Scientist, Autoimmune","Cambridge, MA",201 - 500 ,2013,Company - Public,Biotech & Pharmaceuticals,$100 to $500 million (USD),90,179,134.5,Rubius Therapeutics,MA,0,0,other scientist,sr,P
+562,Data Scientist,"San Francisco, CA",201 - 500 ,2008,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,127,202,164.5,Samba TV,CA,0,0,data scientist,na,na
+563,Software Engineer - Data Visualization,"Annapolis Junction, MD",51 - 200 ,2002,Company - Private,Computer Hardware & Software,$5 to $10 million (USD),60,127,93.5,ClearEdge,MD,0,0,na,na,M
+565,Market Data Analyst,"West Palm Beach, FL",201 - 500 ,1991,Company - Public,Telecommunications Manufacturing,$50 to $100 million (USD),31,57,44,SV Microwave,FL,0,0,analyst,na,M
+566,Staff Data Engineer,"Austin, TX",501 - 1000 ,2010,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,105,194,149.5,Sumo Logic,TX,0,0,data engineer,na,M
+567,Associate Data Engineer,"Washington, DC",1001 - 5000 ,2007,Company - Private,Research & Development,Unknown / Non-Applicable,45,86,65.5,EAB,DC,0,0,data engineer,na,M
+570,Staff Data Engineer,"Mountain View, CA",1001 - 5000 ,1988,Subsidiary or Business Segment,Computer Hardware & Software,$50 to $100 million (USD),126,228,177,Samsung Research America,CA,1,1,data engineer,na,P
+572,Data Scientist,"Arlington, VA",201 - 500 ,2010,Company - Private,Aerospace & Defense,$100 to $500 million (USD),80,134,107,Systems & Technology Research,VA,1,1,data scientist,na,P
+573,Data Scientist,"Santa Clara, CA",501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,120,189,154.5,Netskope,CA,1,0,data scientist,na,P
+576,Senior Data Scientist,"Charlotte, NC",1001 - 5000 ,2017,Company - Public,Insurance Carriers,Unknown / Non-Applicable,95,154,124.5,Brighthouse Financial,NC,1,0,data scientist,sr,M
+579,Data Scientist,"Springfield, VA",10000+ ,1969,Company - Public,Aerospace & Defense,$10+ billion (USD),76,127,101.5,Leidos,VA,1,0,data scientist,na,M
+580,"Data Analyst, Performance Partnership","New York, NY",10000+ ,1935,Subsidiary or Business Segment,Health Care Products Manufacturing,$2 to $5 billion (USD),54,92,73,Beckman Coulter Diagnostics,NY,0,0,analyst,na,na
+582,Data Scientist,"New York, NY",10000+ ,2016,Company - Public,Consulting,$2 to $5 billion (USD),61,100,80.5,IHS Markit,NY,1,0,data scientist,na,M
+585,Staff BI and Data Engineer,"San Jose, CA",51 - 200 ,1998,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,80,148,114,Affinity Solutions,CA,1,0,data engineer,na,M
+588,Data Scientist,"New York, NY",201 - 500 ,2007,Company - Private,Lending,$100 to $500 million (USD),63,111,87,Biz2Credit Inc,NY,0,0,data scientist,na,na
+589,Data Scientist,"Holyoke, MA",201 - 500 ,1885,Company - Private,Banks & Credit Unions,$50 to $100 million (USD),75,126,100.5,PeoplesBank,MA,0,0,data scientist,na,M
+590,Data Scientist Manager,"New York, NY",10000+ ,1967,Company - Public,Enterprise Software & Network Solutions,$10+ billion (USD),110,184,147,Capgemini,NY,1,1,data scientist,na,M
+591,Data Engineer,"New York, NY",201 - 500 ,1914,Company - Private,Insurance Carriers,$100 to $500 million (USD),76,145,110.5,GNY Insurance Companies,NY,1,0,data engineer,na,M
+594,Marketing Data Analyst,"Exton, PA",501 - 1000 ,1937,Nonprofit Organization,Banks & Credit Unions,Unknown / Non-Applicable,36,62,49,Citadel Federal Credit Union,PA,1,0,analyst,na,na
+597,Senior Data Scientist,"New York, NY",1001 - 5000 ,1999,Company - Public,Enterprise Software & Network Solutions,$500 million to $1 billion (USD),94,153,123.5,Medidata Solutions,NY,1,0,data scientist,sr,M
+599,"Principal Scientist, Hematology","Rochester, NY",10000+ ,2014,Hospital,Health Care Services & Hospitals,$500 million to $1 billion (USD),54,115,84.5,Rochester Regional Health,NY,0,0,other scientist,sr,P
+600,Data Analyst,"Alexandria, VA",501 - 1000 ,1989,Company - Private,IT Services,$100 to $500 million (USD),50,92,71,CALIBRE Systems,VA,0,0,analyst,na,na
+601,Software Data Engineer - College,"Corvallis, OR",10000+ ,1939,Company - Public,Computer Hardware & Software,Unknown / Non-Applicable,49,97,73,HP Inc.,OR,0,0,data engineer,na,M
+602,"Director - Data, Privacy and AI Governance","Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),67,135,101,MassMutual,MA,0,0,director,na,na
+603,Staff Machine Learning Engineer,"San Francisco, CA",201 - 500 ,2007,Company - Private,Internet,$10 to $25 million (USD),138,224,181,Tapjoy,CA,1,0,machine learning engineer,na,na
+604,Data Scientist,"San Diego, CA",10000+ ,1939,Company - Public,Aerospace & Defense,$10+ billion (USD),80,139,109.5,Northrop Grumman,CA,0,0,data scientist,na,na
+605,Lead Data Scientist,"Bellevue, WA",10000+ ,1958,Company - Public,IT Services,$10+ billion (USD),158,211,184.5,Visa Inc.,WA,1,0,data scientist,sr,na
+606,Senior Data Scientist - Algorithms,"New York, NY",201 - 500 ,2014,Company - Private,Enterprise Software & Network Solutions,Unknown / Non-Applicable,150,180,165,Quartet Health,NY,1,1,data scientist,sr,M
+607,Information Security Data Analyst,"Chicago, IL",10000+ ,1928,Company - Public,Computer Hardware & Software,$5 to $10 billion (USD),42,80,61,Motorola Solutions,IL,1,1,analyst,na,M
+608,Lead Data Engineer,"Mountain View, CA",51 - 200 ,2010,Company - Private,Internet,$50 to $100 million (USD),190,220,205,Credit Sesame,CA,1,0,data engineer,sr,na
+609,Data Analyst,"New York, NY",1001 - 5000 ,2006,School / School District,K-12 Education,$100 to $500 million (USD),42,77,59.5,Success Academy Charter Schools,NY,1,0,analyst,na,na
+610,Scientist Manufacturing - Kentucky BioProcessing,"Owensboro, KY",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),68,139,103.5,Reynolds American,KY,0,0,other scientist,na,na
+613,Consultant - Analytics Consulting,"Hartford, CT",10000+ ,1981,Company - Public,IT Services,$10+ billion (USD),54,71,62.5,Infosys,CT,0,0,data analitics,na,na
+614,Data Analytics Project Manager,"Springfield, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),34,92,63,MassMutual,MA,0,0,Data scientist project manager,na,M
+617,Data Engineer,"Orange, CA",501 - 1000 ,2013,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,65,124,94.5,Alignment Healthcare,CA,1,1,data engineer,na,M
+619,Data Scientist,"New York, NY",51 - 200 ,2012,Company - Private,Education Training Services,Unknown / Non-Applicable,56,95,75.5,ExecOnline,NY,1,1,data scientist,na,na
+622,Machine Learning Engineer,"Fort Belvoir, VA",501 - 1000 ,1954,Company - Public,Aerospace & Defense,$100 to $500 million (USD),62,112,87,Mteq,VA,1,0,machine learning engineer,na,na
+623,Senior Data Scientist Oncology,"Gaithersburg, MD",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),107,173,140,AstraZeneca,MD,1,0,data scientist,sr,P
+624,Data Scientist,"Silver Spring, MD",201 - 500 ,2006,Company - Private,IT Services,$25 to $50 million (USD),64,108,86,Brillient,MD,1,0,data scientist,na,M
+627,Senior Scientist (Neuroscience),"Marlborough, MA",1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,$1 to $2 billion (USD),109,200,154.5,Sunovion,MA,1,0,other scientist,sr,P
+629,Machine Learning Engineer - Regulatory,"Lenexa, KS",501 - 1000 ,1973,Company - Public,Stock Exchanges,$500 million to $1 billion (USD),61,113,87,Cboe Global Markets,KS,1,1,machine learning engineer,na,na
+630,Marketing Data Analyst,"Highland, CA",1001 - 5000 ,1986,Company - Private,Gambling,$100 to $500 million (USD),35,62,48.5,San Manuel Casino,CA,0,0,analyst,na,M
+631,Data Engineer,"Houston, TX",501 - 1000 ,2002,Company - Private,IT Services,$1 to $2 billion (USD),55,105,80,Trace3,TX,1,1,data engineer,na,na
+632,Medical Laboratory Scientist,"Burleson, TX",1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,$50 to $100 million (USD),37,52,44.5,Texas Health Huguley Hospital,TX,0,0,other scientist,na,na
+634,Principal Data Scientist,"San Jose, CA",10000+ ,1939,Company - Public,Aerospace & Defense,$10+ billion (USD),135,211,173,Northrop Grumman,CA,1,0,data scientist,sr,M
+635,Data Engineer,"Phoenix, AZ",501 - 1000 ,1997,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,57,80,68.5,Saama Technologies Inc,AZ,1,0,data engineer,na,na
+636,Data Scientist - Alpha Insights,"New York, NY",1001 - 5000 ,2001,Company - Private,Investment Banking & Asset Management,Unknown / Non-Applicable,129,215,172,Two Sigma,NY,0,0,data scientist,na,P
+637,"Data Scientist, Office of Data Science","Boston, MA",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),86,143,114.5,Liberty Mutual Insurance,MA,1,0,data scientist,na,na
+638,"Associate Principal Scientist, Pharmacogenomics","Gaithersburg, MD",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),63,127,95,AstraZeneca,MD,0,0,other scientist,sr,P
+639,Data Scientist - Systems Engineering,"Bedford, MA",5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,$1 to $2 billion (USD),50,89,69.5,MITRE,MA,1,0,data scientist,na,na
+640,Data Engineer,"New York, NY",501 - 1000 ,2003,Company - Private,Research & Development,Unknown / Non-Applicable,43,86,64.5,Guidepoint,NY,1,0,data engineer,na,na
+643,Data Scientist,"New York, NY",501 - 1000 ,2007,Company - Private,Consumer Product Rental,Unknown / Non-Applicable,71,124,97.5,Strategic Financial Solutions,NY,1,0,data scientist,na,na
+644,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence","Cambridge, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),113,196,154.5,Takeda Pharmaceuticals,MA,0,1,data engineer,na,M
+645,Senior Research Scientist-Machine Learning,"Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,81,167,124,Software Engineering Institute,PA,0,0,machine learning engineer,sr,P
+646,Data Scientist,"New York, NY",201 - 500 ,2011,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,69,121,95,"Remedy BPCI Partners, LLC.",NY,1,0,data scientist,na,na
+647,Senior Data Scientist,"Chicago, IL",201 - 500 ,2008,Company - Private,Consulting,$50 to $100 million (USD),97,160,128.5,Maven Wave Partners,IL,1,1,data scientist,sr,na
+648,Principal Data Scientist,"San Francisco, CA",501 - 1000 ,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Unknown / Non-Applicable,150,238,194,The Climate Corporation,CA,0,0,data scientist,sr,na
+651,Data Scientist,"New York, NY",201 - 500 ,2005,Company - Public,Advertising & Marketing,Unknown / Non-Applicable,77,132,104.5,Crossix Solutions,NY,1,0,data scientist,na,M
+652,Clinical Laboratory Scientist,"Vail, CO",501 - 1000 ,1966,Hospital,Health Care Services & Hospitals,$100 to $500 million (USD),49,81,65,Vail Health,CO,0,0,other scientist,na,na
+653,Data Engineer - Consultant (Charlotte Based),"Charlotte, NC",201 - 500 ,2008,Company - Private,IT Services,Unknown / Non-Applicable,59,112,85.5,Clarity Insights,NC,1,1,data engineer,na,na
+655,Data Engineer,"Aliso Viejo, CA",1001 - 5000 ,1997,Company - Public,Video Games,$10+ billion (USD),79,147,113,NCSOFT,CA,1,0,data engineer,na,na
+658,"Scientist, Immuno-Oncology","Cambridge, MA",10000+ ,1830,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),62,119,90.5,GSK,MA,0,0,other scientist,na,M
+660,Senior Data Scientist,"Los Angeles, CA",51 - 200 ,2008,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,119,187,153,Factual,CA,1,0,data scientist,sr,na
+661,Products Data Analyst II,"Dublin, CA",1001 - 5000 ,1988,Company - Public,Consulting,$2 to $5 billion (USD),90,157,123.5,TriNet,CA,0,0,analyst,na,M
+662,Lead Data Analyst,"New York, NY",201 - 500 ,2010,Company - Private,Internet,$10 to $25 million (USD),32,62,47,Signpost,NY,0,0,analyst,sr,na
+663,Analytics Manager - Data Mart,"Scotts Valley, CA",501 - 1000 ,1996,Nonprofit Organization,Health Care Services & Hospitals,$500 million to $1 billion (USD),42,86,64,Central California Alliance for Health,CA,0,0,Data scientist project manager,na,na
+664,Data Science Engineer - Mobile,"San Jose, CA",10000+ ,1982,Company - Public,Computer Hardware & Software,$5 to $10 billion (USD),116,208,162,Adobe,CA,1,1,data scientist,na,M
+665,Senior Data Scientist - R&D Oncology,"New York, NY",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),102,172,137,AstraZeneca,NY,1,0,data scientist,sr,P
+666,Sr. Data Engineer - Contract-to-Hire (Java),"Knoxville, TN",10000+ ,1958,Company - Private,Gas Stations,$10+ billion (USD),69,127,98,Pilot Flying J Travel Centers LLC,TN,1,0,data engineer,sr,M
+668,Data Scientist,"Armonk, NY",10000+ ,1863,Company - Public,Insurance Agencies & Brokerages,$10+ billion (USD),86,144,115,Swiss Re,NY,1,0,data scientist,na,M
+669,Senior Data Scientist,"Arvada, CO",5001 - 10000 ,1870,Company - Public,Biotech & Pharmaceuticals,$1 to $2 billion (USD),102,165,133.5,Sartorius,CO,1,0,data scientist,sr,M
+670,Data Engineer,"Denver, CO",501 - 1000 ,1915,Nonprofit Organization,Insurance Carriers,$500 million to $1 billion (USD),74,124,99,Pinnacol Assurance,CO,1,0,data engineer,na,M
+671,Food Scientist - Developer,"Milwaukee, WI",501 - 1000 ,1964,Company - Private,Food & Beverage Manufacturing,Unknown / Non-Applicable,40,68,54,Palermo's Pizza,WI,0,0,other scientist,na,na
+672,Senior Data Engineer,"Franklin, TN",1001 - 5000 ,2004,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,76,142,109,Equian LLC,TN,0,1,data engineer,sr,na
+673,Data Engineer,"Rockville, MD",201 - 500 ,1999,Company - Private,IT Services,$25 to $50 million (USD),76,142,109,MetroStar Systems,MD,0,0,data engineer,na,M
+674,Senior Data Scientist,"Natick, MA",1001 - 5000 ,1984,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),108,171,139.5,MathWorks,MA,1,0,data scientist,sr,M
+675,"Director II, Data Science - GRM Actuarial","Chicago, IL",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),202,306,254,Liberty Mutual Insurance,IL,1,0,data scientist,na,M
+676,Machine Learning Engineer,"New York, NY",1001 - 5000 ,1975,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,91,159,125,Information Builders,NY,1,0,machine learning engineer,na,M
+678,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)","Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),80,133,106.5,Novartis,MA,1,0,data scientist,sr,M
+679,"Scientist, Molecular/Cellular Biologist","South San Francisco, CA",201 - 500 ,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Unknown / Non-Applicable,49,97,73,Audentes Therapeutics,CA,0,0,other scientist,na,P
+681,Staff Scientist-Downstream Process Development,"Rockville, MD",201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,$25 to $50 million (USD),49,113,81,Advanced BioScience Laboratories,MD,0,0,other scientist,na,P
+682,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,"Millville, DE",1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,$100 to $500 million (USD),43,70,56.5,Beebe Healthcare,DE,0,0,other scientist,na,na
+683,Scientist - Analytical Services,"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),65,134,99.5,Reynolds American,NC,0,0,other scientist,na,na
+685,Associate Data Analyst- Graduate Development Program,"Richfield, OH",501 - 1000 ,1989,Company - Private,Insurance Carriers,$500 million to $1 billion (USD),32,59,45.5,National Interstate,OH,0,0,analyst,na,na
+687,IT Associate Data Analyst,"Worcester, MA",5001 - 10000 ,1852,Company - Public,Insurance Carriers,$5 to $10 billion (USD),39,69,54,The Hanover Insurance Group,MA,0,0,analyst,na,na
+688,Sr. Data Engineer,"Indianapolis, IN",51 - 200 ,1996,Company - Private,Consulting,$25 to $50 million (USD),87,158,122.5,Moser Consulting,IN,1,1,data engineer,sr,na
+689,Clinical Data Analyst,"Tampa, FL",1001 - 5000 ,1977,Subsidiary or Business Segment,Enterprise Software & Network Solutions,$100 to $500 million (USD),27,48,37.5,Greenway Health,FL,0,0,analyst,na,M
+690,Business Data Analyst,"New York, NY",1001 - 5000 ,2002,Company - Private,Travel Agencies,$2 to $5 billion (USD),36,71,53.5,Fareportal,NY,1,0,analyst,na,M
+691,Senior Insurance Data Scientist,"Chicago, IL",5001 - 10000 ,1968,Company - Public,Financial Analytics & Research,$1 to $2 billion (USD),107,173,140,TransUnion,IL,1,0,data scientist,sr,na
+692,Senior Data Science Systems Engineer,"Hampton, VA",5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,$1 to $2 billion (USD),56,99,77.5,MITRE,VA,0,0,data scientist,sr,P
+695,Senior Scientist - Regulatory Submissions,"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),80,155,117.5,Reynolds American,NC,0,0,other scientist,sr,M
+696,Scientist - Biomarker and Flow Cytometry,"San Diego, CA",501 - 1000 ,2006,Company - Private,Biotech & Pharmaceuticals,$50 to $100 million (USD),43,98,70.5,Crown Bioscience,CA,0,0,other scientist,na,M
+697,"Associate Scientist, LC/MS Biologics","Ithaca, NY",1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,44,96,70,Q2 Solutions,NY,0,0,other scientist,na,na
+698,Revenue Analytics Manager,"San Francisco, CA",51 - 200 ,2011,Company - Private,Computer Hardware & Software,$25 to $50 million (USD),45,78,61.5,HOVER,CA,0,0,Data scientist project manager,na,na
+699,Sr. Scientist Method Development,"Marietta, GA",1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,50,110,80,Q2 Solutions,GA,0,0,other scientist,sr,na
+700,Data Scientist,"Atlanta, GA",51 - 200 ,2003,Company - Private,Computer Hardware & Software,$25 to $50 million (USD),60,99,79.5,Oversight Systems,GA,1,0,data scientist,na,na
+701,Data Scientist - Sales,"Mountain View, CA",501 - 1000 ,2014,Company - Private,Computer Hardware & Software,$100 to $500 million (USD),130,206,168,Confluent,CA,1,0,data scientist,na,na
+702,IT - Data Engineer II,"Quincy, MA",1001 - 5000 ,1988,Company - Private,Insurance Carriers,$100 to $500 million (USD),61,119,90,Arbella Insurance,MA,0,1,data engineer,na,na
+704,Senior Data Analyst,"San Francisco, CA",51 - 200 ,2008,Company - Public,Computer Hardware & Software,Unknown / Non-Applicable,99,178,138.5,Life360,CA,1,0,analyst,sr,na
+705,"Principal, Data Science - Advanced Analytics","Plymouth Meeting, PA",10000+ ,2017,Company - Public,Biotech & Pharmaceuticals,$2 to $5 billion (USD),86,137,111.5,IQVIA,PA,0,0,data scientist,sr,M
+706,Data Science Project Manager,"Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),37,100,68.5,MassMutual,MA,0,0,data scientist,na,M
+707,"Sr Scientist, Immuno-Oncology - Oncology","Cambridge, MA",10000+ ,1830,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),58,111,84.5,GSK,MA,0,0,other scientist,sr,M
+708,Senior Data Engineer,"Nashville, TN",1001 - 5000 ,2006,Company - Public,Internet,$100 to $500 million (USD),72,133,102.5,Eventbrite,TN,1,1,data engineer,sr,na
+709,"Project Scientist - Auton Lab, Robotics Institute","Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,56,91,73.5,Software Engineering Institute,PA,0,0,other scientist,na,P
+711,Research Scientist – Security and Privacy,"Beavercreek, OH",501 - 1000 ,1967,Nonprofit Organization,Federal Agencies,$50 to $100 million (USD),61,126,93.5,Riverside Research Institute,OH,1,0,other scientist,na,M
+715,"Enterprise Architect, Data","Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),101,158,129.5,MassMutual,MA,1,1,na,na,na
+718,Supply Chain Data Analyst,"Logan, UT",1001 - 5000 ,1977,Company - Private,Consumer Products Manufacturing,$500 million to $1 billion (USD),33,61,47,Icon Health and Fitness,UT,1,0,analyst,na,na
+719,Data Engineer - ETL,"Birmingham, AL",501 - 1000 ,2014,Subsidiary or Business Segment,Consumer Product Rental,Unknown / Non-Applicable,44,86,65,Shipt,AL,1,0,data engineer,na,na
+721,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,"Green Bay, WI",1001 - 5000 ,1870,Company - Public,Banks & Credit Unions,$1 to $2 billion (USD),43,77,60,Associated Banc-Corp,WI,0,0,analyst,na,na
+722,"Senior Manager, Epidemiologic Data Scientist","New York, NY",10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),125,210,167.5,Pfizer,NY,0,0,data scientist,sr,M
+723,"Marketing Data Analyst, May 2020 Undergrad","New York, NY",1001 - 5000 ,2002,Company - Private,Travel Agencies,$2 to $5 billion (USD),44,86,65,Fareportal,NY,0,0,analyst,na,na
+725,Senior Data Analyst,"Herndon, VA",501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),69,119,94,Novetta,VA,1,0,analyst,sr,na
+726,Senior Data Analyst,"New York, NY",201 - 500 ,2010,Company - Private,"Department, Clothing, & Shoe Stores",$100 to $500 million (USD),65,110,87.5,Moda Operandi,NY,1,0,analyst,sr,na
+727,Senior Data Engineer,"Reston, VA",501 - 1000 ,2012,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),67,127,97,Novetta,VA,1,1,data engineer,sr,na
+728,Senior Data Engineer,"Durham, NC",5001 - 10000 ,1990,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),78,147,112.5,Genesys,NC,1,1,data engineer,sr,na
+730,Data Modeler (Analytical Systems),"Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),66,117,91.5,MassMutual,MA,0,1,data modeler,na,na
+731,Data Modeler - Data Solutions Engineer,"Indianapolis, IN",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),37,66,51.5,Liberty Mutual Insurance,IN,1,0,data modeler,na,M
+732,Data Scientist in Translational Medicine,"Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),86,143,114.5,Novartis,MA,0,0,data scientist,na,na
+733,Data Scientist,"New York, NY",201 - 500 ,2011,Company - Private,Consulting,$10 to $25 million (USD),84,146,115,USEReady,NY,1,1,data scientist,na,na
+735,Associate Environmental Scientist - Wildlife Biologist,"Clovis, CA",51 - 200 ,1972,Company - Private,Architectural & Engineering Services,$10 to $25 million (USD),38,64,51,QK,CA,0,0,other scientist,na,na
+736,Sr Data Engineer (Sr BI Developer),"Chandler, AZ",501 - 1000 ,1981,Company - Public,Health Care Services & Hospitals,Unknown / Non-Applicable,90,110,100,Tivity Health,AZ,0,1,data engineer,sr,na
+737,"Senior Data Scientist – Visualization, Novartis AI Innovation Lab","Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),92,150,121,Novartis,MA,0,0,data scientist,sr,na
+738,Senior Data Analyst/Scientist,"San Francisco, CA",201 - 500 ,2006,Company - Private,Computer Hardware & Software,$100 to $500 million (USD),90,153,121.5,Demandbase,CA,0,0,analyst,sr,na
+740,"Associate, Data Science, Internal Audit","Boston, MA",10000+ ,1856,Company - Private,Banks & Credit Unions,$10+ billion (USD),43,82,62.5,Santander,MA,1,0,data scientist,na,M
+742,Senior LiDAR Data Scientist,"Orlando, FL",201 - 500 ,2012,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,93,151,122,Luminar Technologies,FL,1,0,data scientist,sr,M
+743,Data Engineer,"Chantilly, VA",51 - 200 ,2004,Company - Private,IT Services,Unknown / Non-Applicable,61,109,85,BRMi,VA,1,1,data engineer,na,na
+744,Data Engineer,"Scottsdale, AZ",501 - 1000 ,2002,Company - Private,IT Services,$50 to $100 million (USD),42,79,60.5,IntraEdge,AZ,1,0,data engineer,na,na
+745,Lead Data Scientist,"Burbank, CA",51 - 200 ,2009,Company - Private,Financial Analytics & Research,$50 to $100 million (USD),139,221,180,Zest AI,CA,1,0,data scientist,sr,M
+746,"Technology-Minded, Data Professional Opportunities","Columbia, MO",1001 - 5000 ,2002,Company - Private,Lending,Unknown / Non-Applicable,40,101,70.5,Veterans United Home Loans,MO,0,1,na,na,na
+747,Big Data Engineer,"Chantilly, VA",1001 - 5000 ,2017,Company - Private,Aerospace & Defense,$1 to $2 billion (USD),84,153,118.5,Peraton,VA,1,1,data engineer,na,na
+748,Salesforce Analytics Consultant,"Chicago, IL",501 - 1000 ,1995,Company - Private,Enterprise Software & Network Solutions,$100 to $500 million (USD),52,81,66.5,"Emtec, Inc.",IL,1,0,data analitics,na,M
+749,Managing Data Scientist/ML Engineer,"Boston, MA",1001 - 5000 ,1943,Company - Private,Consulting,$100 to $500 million (USD),81,134,107.5,PA Consulting,MA,0,1,data scientist,na,na
+750,Senior Data Engineer,"Austin, TX",51 - 200 ,2010,Company - Private,Security Services,$10 to $25 million (USD),97,180,138.5,Praetorian,TX,1,0,data engineer,sr,na
+751,Staff Scientist- Upstream PD,"Rockville, MD",201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,$25 to $50 million (USD),49,113,81,Advanced BioScience Laboratories,MD,0,0,other scientist,na,na
+752,Data Engineering Analyst,"Bloomington, IL",1001 - 5000 ,1925,Company - Private,Insurance Carriers,$2 to $5 billion (USD),44,73,58.5,COUNTRY Financial,IL,1,1,data engineer,na,M
+753,Sr. Data Engineer,"Chicago, IL",1001 - 5000 ,2005,Company - Public,Transportation Management,$2 to $5 billion (USD),75,140,107.5,Echo Global Logistics,IL,0,0,data engineer,sr,na
+754,"Scientist, Pharmacometrics","Cambridge, MA",501 - 1000 ,2008,Company - Public,Biotech & Pharmaceuticals,$50 to $100 million (USD),84,157,120.5,Agios Pharmaceuticals,MA,0,0,other scientist,na,M
+755,Manager of Data Science,"San Francisco, CA",201 - 500 ,2007,Company - Private,Internet,$10 to $25 million (USD),40,87,63.5,Tapjoy,CA,1,0,data scientist,na,na
+756,Scientist Manufacturing Pharma - Kentucky BioProcessing,"Owensboro, KY",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),68,139,103.5,Reynolds American,KY,0,0,other scientist,na,na
+757,Software Engineer (Data Scientist/Software Engineer) - SISW - MG,"Fremont, CA",5001 - 10000 ,1981,Company - Public,Computer Hardware & Software,$1 to $2 billion (USD),72,142,107,Mentor Graphics,CA,1,0,data scientist,na,na
+759,Data Engineer,"San Diego, CA",501 - 1000 ,1972,Company - Private,Insurance Carriers,$500 million to $1 billion (USD),57,109,83,ICW Group,CA,0,0,data engineer,na,na
+761,Lead Big Data Engineer,"San Francisco, CA",1001 - 5000 ,2007,Company - Private,Internet,Unknown / Non-Applicable,121,203,162,Glassdoor,CA,1,1,data engineer,sr,na
+763,Product Engineer – Spatial Data Science and Statistical Analysis,"Redlands, CA",1001 - 5000 ,1969,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),52,85,68.5,Esri,CA,1,0,data scientist,na,M
+766,Sr Software Engineer (Data Scientist),"Westlake, OH",10000+ ,1978,Company - Public,Insurance Carriers,$5 to $10 billion (USD),81,140,110.5,Assurant,OH,0,0,data scientist,sr,na
+768,Associate Research Scientist I (Protein Expression and Production),"Alameda, CA",501 - 1000 ,1994,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,59,116,87.5,Exelixis,CA,0,0,other scientist,na,M
+769,Senior Data Scientist Artificial Intelligence,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),60,101,80.5,PNNL,WA,0,0,data scientist,sr,M
+773,Analytics - Business Assurance Data Analyst,"Cedar Rapids, IA",501 - 1000 ,1992,Company - Private,Lending,$100 to $500 million (USD),31,55,43,GreatAmerica Financial Services,IA,0,0,analyst,na,na
+776,"Associate Director/Director, Safety Scientist","Cambridge, MA",201 - 500 ,2003,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,102,178,140,Acceleron Pharma,MA,0,0,director,na,P
+777,"Director, Precision Medicine Clinical Biomarker Scientist","Cambridge, MA",10000+ ,1849,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),136,208,172,Pfizer,MA,0,0,director,na,P
+779,Data Analyst Senior,"Philadelphia, PA",5001 - 10000 ,1983,Company - Private,Insurance Carriers,$5 to $10 billion (USD),48,85,66.5,AmeriHealth Caritas,PA,0,0,analyst,sr,M
+780,Senior Formulations Scientist II,"Alameda, CA",501 - 1000 ,1994,Company - Public,Biotech & Pharmaceuticals,Unknown / Non-Applicable,71,129,100,Exelixis,CA,0,0,other scientist,sr,P
+781,Lead Data Engineer (Python),"San Francisco, CA",51 - 200 ,2006,Company - Private,Staffing & Outsourcing,$1 to $5 million (USD),66,123,94.5,Strategic Employment Partners,CA,1,0,data engineer,sr,na
+782,Data Science Manager,"San Francisco, CA",501 - 1000 ,2011,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,171,272,221.5,Grand Rounds,CA,1,0,data scientist,na,na
+783,Senior Data Scientist 4 Artificial Intelligence,"Seattle, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),92,146,119,PNNL,WA,0,0,data scientist,sr,M
+784,Data Engineer,"Chicago, IL",201 - 500 ,1995,Company - Private,Consulting,$50 to $100 million (USD),65,126,95.5,"SPINS, LLC",IL,1,0,data engineer,na,M
+785,"Director II, Data Science - GRS Predictive Analytics","Chicago, IL",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),150,239,194.5,Liberty Mutual Insurance,IL,1,0,data scientist,na,P
+786,Medical Lab Scientist - MLT,"Omaha, NE",10000+ ,1996,Nonprofit Organization,Health Care Services & Hospitals,$10+ billion (USD),43,60,51.5,Catholic Health Initiatives,NE,0,0,other scientist,na,na
+788,Senior Quantitative Analyst,"Jersey City, NJ",1001 - 5000 ,1973,Company - Private,Brokerage Services,$1 to $2 billion (USD),118,228,173,DTCC,NJ,1,0,analyst,sr,na
+790,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,"San Antonio, TX",1001 - 5000 ,1947,Nonprofit Organization,Research & Development,$500 million to $1 billion (USD),52,91,71.5,Southwest Research Institute,TX,1,0,other scientist,sr,na
+791,Senior Scientist - Toxicologist - Product Integrity (Stewardship),"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),47,101,74,Reynolds American,NC,0,0,other scientist,sr,M
+794,Systems Engineer II - Data Analyst,"Huntsville, AL",10000+ ,1922,Company - Public,Aerospace & Defense,$10+ billion (USD),49,76,62.5,Raytheon,AL,0,0,analyst,na,na
+795,Senior Research Analytical Scientist-Non-Targeted Analysis,"Durham, NC",1001 - 5000 ,1958,Nonprofit Organization,Research & Development,$500 million to $1 billion (USD),43,88,65.5,RTI International,NC,0,0,other scientist,sr,P
+797,Data Scientist,"Coraopolis, PA",10000+ ,1948,Company - Public,Sporting Goods Stores,$5 to $10 billion (USD),61,109,85,DICK'S Sporting Goods - Corporate,PA,1,0,data scientist,na,M
+799,Principal Data Scientist,"Gaithersburg, MD",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),113,182,147.5,AstraZeneca,MD,1,0,data scientist,sr,P
+802,Director Data Science,"Fort Lee, NJ",1001 - 5000 ,1989,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,124,199,161.5,TRANZACT,NJ,1,0,data scientist,na,na
+803,Data Engineer,"Roanoke, VA",10000+ ,1899,Nonprofit Organization,Health Care Services & Hospitals,$1 to $2 billion (USD),58,104,81,Carilion Clinic,VA,0,0,data engineer,na,M
+804,Sr Data Analyst - IT,"Blue Bell, PA",1001 - 5000 ,2003,Other Organization,Biotech & Pharmaceuticals,$100 to $500 million (USD),52,93,72.5,United BioSource,PA,0,0,analyst,sr,na
+806,Senior Data Engineer,"San Francisco, CA",51 - 200 ,2008,Company - Public,Computer Hardware & Software,$10 to $25 million (USD),97,181,139,Figure Eight,CA,1,0,data engineer,sr,na
+807,Senior Data Engineer,"San Francisco, CA",201 - 500 ,2007,Company - Private,Internet,$10 to $25 million (USD),100,173,136.5,Tapjoy,CA,0,0,data engineer,sr,na
+808,Sr. Data Analyst,"New York, NY",201 - 500 ,2008,Company - Private,Internet,Unknown / Non-Applicable,58,108,83,DoubleVerify,NY,1,0,analyst,sr,na
+809,Research Scientist or Senior Research Scientist - Computer Vision,"Cambridge, MA",51 - 200 ,1991,Subsidiary or Business Segment,Research & Development,$5 to $10 million (USD),81,161,121,Mitsubishi Electric Research Labs,MA,0,0,other scientist,sr,P
+810,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,"New York, NY",1001 - 5000 ,2002,Company - Private,Travel Agencies,$2 to $5 billion (USD),53,96,74.5,Fareportal,NY,1,0,data scientist,na,na
+811,Data Analyst Chemist - Quality System Contractor,"San Francisco, CA",501 - 1000 ,2002,Company - Private,Beauty & Personal Accessories Stores,Unknown / Non-Applicable,61,110,85.5,"Rodan and Fields, LLC",CA,0,0,analyst,na,na
+812,Senior Scientist - Biostatistician,"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),65,96,80.5,Reynolds American,NC,0,0,other scientist,sr,M
+815,Research Scientist / Principal Research Scientist - Multiphysical Systems,"Cambridge, MA",51 - 200 ,1991,Subsidiary or Business Segment,Research & Development,$5 to $10 million (USD),115,220,167.5,Mitsubishi Electric Research Labs,MA,0,0,other scientist,sr,P
+816,"Research Scientist, Machine Learning Department","Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,71,144,107.5,Software Engineering Institute,PA,1,0,machine learning engineer,na,P
+817,Foundational Community Supports Data Analyst,"Seattle, WA",501 - 1000 ,1979,Nonprofit Organization,Social Assistance,$25 to $50 million (USD),32,57,44.5,DESC,WA,0,0,analyst,na,na
+818,"Senior Health Data Analyst, Star Ratings","Glen Burnie, MD",1001 - 5000 ,1889,Company - Private,Health Care Services & Hospitals,$500 million to $1 billion (USD),79,136,107.5,Johns Hopkins Health Care,MD,0,0,analyst,sr,M
+820,Sr. Data Analyst,"Philadelphia, PA",201 - 500 ,1994,Company - Private,Health Care Services & Hospitals,$500 million to $1 billion (USD),50,89,69.5,Community Behavioral Health,PA,0,0,analyst,sr,na
+821,"Senior Engineer, Data Management Engineering","Milpitas, CA",10000+ ,1970,Company - Public,Computer Hardware & Software,$10+ billion (USD),68,129,98.5,Western Digital,CA,1,1,na,sr,na
+822,Quality Control Scientist III- Analytical Development,"Rockville, MD",201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,$25 to $50 million (USD),48,113,80.5,Advanced BioScience Laboratories,MD,0,0,other scientist,na,na
+823,"Clinical Scientist, Clinical Development","Watertown, MA",51 - 200 ,2008,Company - Private,Biotech & Pharmaceuticals,$10 to $25 million (USD),56,97,76.5,FORMA THERAPEUTICS,MA,0,0,other scientist,na,na
+824,Software Engineer Staff Scientist: Human Language Technologies,"Cambridge, MD",10000+ ,1922,Company - Public,Aerospace & Defense,$10+ billion (USD),74,124,99,Raytheon,MD,1,0,other scientist,na,na
+825,"Manager, Safety Scientist, Medical Safety & Risk Management","Cambridge, MA",501 - 1000 ,2008,Company - Public,Biotech & Pharmaceuticals,$50 to $100 million (USD),68,125,96.5,Agios Pharmaceuticals,MA,0,0,Data scientist project manager,na,na
+826,"Assistant Director/Director, Office of Data Science","Boston, MA",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),39,67,53,Liberty Mutual Insurance,MA,0,0,data scientist,na,M
+828,Senior Risk Data Scientist,"Palo Alto, CA",501 - 1000 ,2006,Company - Public,Financial Transaction Processing,$50 to $100 million (USD),107,172,139.5,Bill.com,CA,0,0,data scientist,sr,M
+829,Data Scientist in Artificial Intelligence Early Career,"Richland, WA",1001 - 5000 ,1965,Government,Energy,$500 million to $1 billion (USD),49,85,67,Pacific Northwest National Laboratory,WA,0,0,data scientist,na,M
+830,Consultant - Analytics Consulting,"Hartford, CT",10000+ ,1981,Company - Public,IT Services,$10+ billion (USD),54,71,62.5,Infosys,CT,0,0,data analitics,na,na
+831,Scientist - CVRM Metabolism - in vivo pharmacology,"Gaithersburg, MD",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),61,123,92,AstraZeneca,MD,0,0,other scientist,na,na
+836,Data Engineer,"Orange, CA",501 - 1000 ,2013,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,65,124,94.5,Alignment Healthcare,CA,1,1,data engineer,na,M
+837,Data Scientist,"Fort Lee, NJ",1001 - 5000 ,1989,Company - Private,Advertising & Marketing,Unknown / Non-Applicable,87,141,114,TRANZACT,NJ,1,1,data scientist,na,na
+838,Data Scientist,"New York, NY",51 - 200 ,2012,Company - Private,Education Training Services,Unknown / Non-Applicable,56,95,75.5,ExecOnline,NY,1,1,data scientist,na,na
+840,Machine Learning Engineer,"Fort Belvoir, VA",501 - 1000 ,1954,Company - Public,Aerospace & Defense,$100 to $500 million (USD),62,112,87,Mteq,VA,1,0,machine learning engineer,na,na
+841,Data Scientist,"Silver Spring, MD",201 - 500 ,2006,Company - Private,IT Services,$25 to $50 million (USD),64,108,86,Brillient,MD,1,0,data scientist,na,M
+848,Senior Scientist (Neuroscience),"Marlborough, MA",1001 - 5000 ,2010,Company - Private,Biotech & Pharmaceuticals,$1 to $2 billion (USD),109,200,154.5,Sunovion,MA,1,0,other scientist,sr,P
+851,Marketing Data Analyst,"Highland, CA",1001 - 5000 ,1986,Company - Private,Gambling,$100 to $500 million (USD),35,62,48.5,San Manuel Casino,CA,0,0,analyst,na,M
+852,Machine Learning Engineer - Regulatory,"Lenexa, KS",501 - 1000 ,1973,Company - Public,Stock Exchanges,$500 million to $1 billion (USD),61,113,87,Cboe Global Markets,KS,1,1,machine learning engineer,na,na
+853,Data Engineer,"Houston, TX",501 - 1000 ,2002,Company - Private,IT Services,$1 to $2 billion (USD),55,105,80,Trace3,TX,1,1,data engineer,na,na
+854,Medical Laboratory Scientist,"Burleson, TX",1001 - 5000 ,1977,Hospital,Health Care Services & Hospitals,$50 to $100 million (USD),37,52,44.5,Texas Health Huguley Hospital,TX,0,0,other scientist,na,na
+855,Principal Data Scientist,"San Jose, CA",10000+ ,1939,Company - Public,Aerospace & Defense,$10+ billion (USD),135,211,173,Northrop Grumman,CA,1,0,data scientist,sr,M
+857,Data Engineer,"Phoenix, AZ",501 - 1000 ,1997,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,57,80,68.5,Saama Technologies Inc,AZ,1,0,data engineer,na,na
+858,"Associate Principal Scientist, Pharmacogenomics","Gaithersburg, MD",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),63,127,95,AstraZeneca,MD,0,0,other scientist,sr,P
+859,Data Scientist - Systems Engineering,"Bedford, MA",5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,$1 to $2 billion (USD),50,89,69.5,MITRE,MA,1,0,data scientist,na,na
+860,Senior Data Scientist,"Cincinnati, OH",201 - 500 ,1885,Subsidiary or Business Segment,Metals Brokers,Unknown / Non-Applicable,82,132,107,The David J. Joseph Company,OH,1,0,data scientist,sr,M
+861,Data Scientist SR,"Charlottesville, VA",501 - 1000 ,2010,Company - Private,IT Services,$100 to $500 million (USD),85,139,112,The Buffalo Group,VA,1,1,data scientist,sr,M
+863,Data Scientist,"Washington, DC",51 - 200 ,1997,Company - Private,Consulting,$10 to $25 million (USD),72,121,96.5,CompQsoft,DC,1,0,data scientist,na,M
+866,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence","Cambridge, MA",10000+ ,1781,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),113,196,154.5,Takeda Pharmaceuticals,MA,0,1,data engineer,na,M
+867,Data Scientist,"New York, NY",201 - 500 ,2011,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,69,121,95,"Remedy BPCI Partners, LLC.",NY,1,0,data scientist,na,na
+868,Data Scientist,"New York, NY",501 - 1000 ,2007,Company - Private,Consumer Product Rental,Unknown / Non-Applicable,71,124,97.5,Strategic Financial Solutions,NY,1,0,data scientist,na,na
+869,Senior Data Scientist,"Chicago, IL",201 - 500 ,2008,Company - Private,Consulting,$50 to $100 million (USD),97,160,128.5,Maven Wave Partners,IL,1,1,data scientist,sr,na
+870,Senior Research Scientist-Machine Learning,"Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,81,167,124,Software Engineering Institute,PA,0,0,machine learning engineer,sr,P
+871,Principal Data Scientist,"San Francisco, CA",501 - 1000 ,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Unknown / Non-Applicable,150,238,194,The Climate Corporation,CA,0,0,data scientist,sr,na
+875,Clinical Laboratory Scientist,"Vail, CO",501 - 1000 ,1966,Hospital,Health Care Services & Hospitals,$100 to $500 million (USD),49,81,65,Vail Health,CO,0,0,other scientist,na,na
+878,Data Scientist,"New York, NY",201 - 500 ,2005,Company - Public,Advertising & Marketing,Unknown / Non-Applicable,77,132,104.5,Crossix Solutions,NY,1,0,data scientist,na,M
+879,Data Scientist,"Phoenix, AZ",201 - 500 ,1969,Company - Private,IT Services,$50 to $100 million (USD),51,88,69.5,Solugenix Corporation,AZ,1,0,data scientist,na,na
+880,Data Scientist,"Irvine, CA",10000+ ,1997,Company - Private,Colleges & Universities,Unknown / Non-Applicable,101,141,121,West Coast University,CA,1,0,data scientist,na,M
+881,Data Engineer - Consultant (Charlotte Based),"Charlotte, NC",201 - 500 ,2008,Company - Private,IT Services,Unknown / Non-Applicable,59,112,85.5,Clarity Insights,NC,1,1,data engineer,na,na
+883,Data Engineer,"Aliso Viejo, CA",1001 - 5000 ,1997,Company - Public,Video Games,$10+ billion (USD),79,147,113,NCSOFT,CA,1,0,data engineer,na,na
+884,Data Scientist (Warehouse Automation),"San Francisco, CA",201 - 500 ,2005,Subsidiary or Business Segment,Consumer Products Manufacturing,$25 to $50 million (USD),79,127,103,SoftBank Robotics,CA,1,0,data scientist,na,M
+886,"Scientist, Immuno-Oncology","Cambridge, MA",10000+ ,1830,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),62,119,90.5,GSK,MA,0,0,other scientist,na,M
+887,Senior Data Scientist,"Los Angeles, CA",51 - 200 ,2008,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,119,187,153,Factual,CA,1,0,data scientist,sr,na
+892,Jr. Data Scientist,"McLean, VA",5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,$1 to $2 billion (USD),81,132,106.5,MITRE,VA,1,1,data scientist,jr,na
+893,Senior Data Scientist,"Ann Arbor, MI",51 - 200 ,2011,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,120,140,130,SkySync,MI,0,0,data scientist,sr,M
+895,Products Data Analyst II,"Dublin, CA",1001 - 5000 ,1988,Company - Public,Consulting,$2 to $5 billion (USD),90,157,123.5,TriNet,CA,0,0,analyst,na,M
+896,Data Architect / Data Modeler,"New York, NY",1001 - 5000 ,1999,Company - Public,Enterprise Software & Network Solutions,$500 million to $1 billion (USD),63,110,86.5,Medidata Solutions,NY,0,0,data modeler,na,M
+897,Analytics Manager - Data Mart,"Scotts Valley, CA",501 - 1000 ,1996,Nonprofit Organization,Health Care Services & Hospitals,$500 million to $1 billion (USD),42,86,64,Central California Alliance for Health,CA,0,0,Data scientist project manager,na,na
+898,Lead Data Analyst,"New York, NY",201 - 500 ,2010,Company - Private,Internet,$10 to $25 million (USD),32,62,47,Signpost,NY,0,0,analyst,sr,na
+899,Data Science Engineer - Mobile,"San Jose, CA",10000+ ,1982,Company - Public,Computer Hardware & Software,$5 to $10 billion (USD),116,208,162,Adobe,CA,1,1,data scientist,na,M
+900,Senior Data Scientist Oncology,"Gaithersburg, MD",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),107,173,140,AstraZeneca,MD,1,0,data scientist,sr,P
+902,Sr. Data Engineer - Contract-to-Hire (Java),"Knoxville, TN",10000+ ,1958,Company - Private,Gas Stations,$10+ billion (USD),69,127,98,Pilot Flying J Travel Centers LLC,TN,1,0,data engineer,sr,M
+904,Senior Data Scientist - R&D Oncology,"New York, NY",10000+ ,1913,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),102,172,137,AstraZeneca,NY,1,0,data scientist,sr,P
+907,Data Engineer,"Denver, CO",501 - 1000 ,1915,Nonprofit Organization,Insurance Carriers,$500 million to $1 billion (USD),74,124,99,Pinnacol Assurance,CO,1,0,data engineer,na,M
+909,Food Scientist - Developer,"Milwaukee, WI",501 - 1000 ,1964,Company - Private,Food & Beverage Manufacturing,Unknown / Non-Applicable,40,68,54,Palermo's Pizza,WI,0,0,other scientist,na,na
+910,Senior Data Engineer,"Franklin, TN",1001 - 5000 ,2004,Company - Private,Health Care Services & Hospitals,Unknown / Non-Applicable,76,142,109,Equian LLC,TN,0,1,data engineer,sr,na
+911,Data Engineer,"Rockville, MD",201 - 500 ,1999,Company - Private,IT Services,$25 to $50 million (USD),76,142,109,MetroStar Systems,MD,0,0,data engineer,na,M
+912,Senior Data Scientist,"Natick, MA",1001 - 5000 ,1984,Company - Private,Computer Hardware & Software,$1 to $2 billion (USD),108,171,139.5,MathWorks,MA,1,0,data scientist,sr,M
+913,"Director II, Data Science - GRM Actuarial","Chicago, IL",10000+ ,1912,Company - Private,Insurance Carriers,$10+ billion (USD),202,306,254,Liberty Mutual Insurance,IL,1,0,data scientist,na,M
+914,Machine Learning Engineer,"New York, NY",1001 - 5000 ,1975,Company - Private,Computer Hardware & Software,Unknown / Non-Applicable,91,159,125,Information Builders,NY,1,0,machine learning engineer,na,M
+916,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)","Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),80,133,106.5,Novartis,MA,1,0,data scientist,sr,M
+919,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,"Millville, DE",1001 - 5000 ,1935,Nonprofit Organization,Health Care Services & Hospitals,$100 to $500 million (USD),43,70,56.5,Beebe Healthcare,DE,0,0,other scientist,na,na
+920,"Scientist, Molecular/Cellular Biologist","South San Francisco, CA",201 - 500 ,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Unknown / Non-Applicable,49,97,73,Audentes Therapeutics,CA,0,0,other scientist,na,P
+921,Staff Scientist-Downstream Process Development,"Rockville, MD",201 - 500 ,1961,Company - Private,Biotech & Pharmaceuticals,$25 to $50 million (USD),49,113,81,Advanced BioScience Laboratories,MD,0,0,other scientist,na,P
+926,Scientist - Analytical Services,"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),65,134,99.5,Reynolds American,NC,0,0,other scientist,na,na
+928,"Associate Scientist / Sr. Associate Scientist, Antibody Discovery","South San Francisco, CA",501 - 1000 ,2006,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,59,125,92,23andMe,CA,0,0,other scientist,sr,M
+929,Associate Data Analyst- Graduate Development Program,"Richfield, OH",501 - 1000 ,1989,Company - Private,Insurance Carriers,$500 million to $1 billion (USD),32,59,45.5,National Interstate,OH,0,0,analyst,na,na
+930,Sr. Data Engineer,"Indianapolis, IN",51 - 200 ,1996,Company - Private,Consulting,$25 to $50 million (USD),87,158,122.5,Moser Consulting,IN,1,1,data engineer,sr,na
+931,Clinical Data Analyst,"Tampa, FL",1001 - 5000 ,1977,Subsidiary or Business Segment,Enterprise Software & Network Solutions,$100 to $500 million (USD),27,48,37.5,Greenway Health,FL,0,0,analyst,na,M
+932,IT Associate Data Analyst,"Worcester, MA",5001 - 10000 ,1852,Company - Public,Insurance Carriers,$5 to $10 billion (USD),39,69,54,The Hanover Insurance Group,MA,0,0,analyst,na,na
+933,Business Data Analyst,"New York, NY",1001 - 5000 ,2002,Company - Private,Travel Agencies,$2 to $5 billion (USD),36,71,53.5,Fareportal,NY,1,0,analyst,na,M
+934,Senior Insurance Data Scientist,"Chicago, IL",5001 - 10000 ,1968,Company - Public,Financial Analytics & Research,$1 to $2 billion (USD),107,173,140,TransUnion,IL,1,0,data scientist,sr,na
+935,Senior Data Science Systems Engineer,"Hampton, VA",5001 - 10000 ,1958,Nonprofit Organization,Federal Agencies,$1 to $2 billion (USD),56,99,77.5,MITRE,VA,0,0,data scientist,sr,P
+938,Senior Scientist - Regulatory Submissions,"Winston-Salem, NC",5001 - 10000 ,1875,Company - Private,Consumer Products Manufacturing,$10+ billion (USD),80,155,117.5,Reynolds American,NC,0,0,other scientist,sr,M
+939,Scientist - Biomarker and Flow Cytometry,"San Diego, CA",501 - 1000 ,2006,Company - Private,Biotech & Pharmaceuticals,$50 to $100 million (USD),43,98,70.5,Crown Bioscience,CA,0,0,other scientist,na,M
+940,Revenue Analytics Manager,"San Francisco, CA",51 - 200 ,2011,Company - Private,Computer Hardware & Software,$25 to $50 million (USD),45,78,61.5,HOVER,CA,0,0,Data scientist project manager,na,na
+941,Sr. Scientist Method Development,"Marietta, GA",1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,50,110,80,Q2 Solutions,GA,0,0,other scientist,sr,na
+942,"Associate Scientist, LC/MS Biologics","Ithaca, NY",1001 - 5000 ,2015,Company - Private,Biotech & Pharmaceuticals,Unknown / Non-Applicable,44,96,70,Q2 Solutions,NY,0,0,other scientist,na,na
+944,IT - Data Engineer II,"Quincy, MA",1001 - 5000 ,1988,Company - Private,Insurance Carriers,$100 to $500 million (USD),61,119,90,Arbella Insurance,MA,0,1,data engineer,na,na
+946,Senior Data Analyst,"San Francisco, CA",51 - 200 ,2008,Company - Public,Computer Hardware & Software,Unknown / Non-Applicable,99,178,138.5,Life360,CA,1,0,analyst,sr,na
+947,Data Science Project Manager,"Boston, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,$10+ billion (USD),37,100,68.5,MassMutual,MA,0,0,data scientist,na,M
+948,Data Engineer,"San Francisco, CA",201 - 500 ,2011,Company - Private,Internet,$100 to $500 million (USD),62,113,87.5,Fivestars,CA,1,0,data engineer,na,P
+949,"Principal, Data Science - Advanced Analytics","Plymouth Meeting, PA",10000+ ,2017,Company - Public,Biotech & Pharmaceuticals,$2 to $5 billion (USD),86,137,111.5,IQVIA,PA,0,0,data scientist,sr,M
+950,"Sr Scientist, Immuno-Oncology - Oncology","Cambridge, MA",10000+ ,1830,Company - Public,Biotech & Pharmaceuticals,$10+ billion (USD),58,111,84.5,GSK,MA,0,0,other scientist,sr,M
+951,Senior Data Engineer,"Nashville, TN",1001 - 5000 ,2006,Company - Public,Internet,$100 to $500 million (USD),72,133,102.5,Eventbrite,TN,1,1,data engineer,sr,na
+952,"Project Scientist - Auton Lab, Robotics Institute","Pittsburgh, PA",501 - 1000 ,1984,College / University,Colleges & Universities,Unknown / Non-Applicable,56,91,73.5,Software Engineering Institute,PA,0,0,other scientist,na,P
+955,Research Scientist – Security and Privacy,"Beavercreek, OH",501 - 1000 ,1967,Nonprofit Organization,Federal Agencies,$50 to $100 million (USD),61,126,93.5,Riverside Research Institute,OH,1,0,other scientist,na,M
