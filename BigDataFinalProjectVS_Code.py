@@ -10,21 +10,19 @@ spark = SparkSession.builder \
     .getOrCreate()
 
 # Load correct columns from Hive
-datajobs = spark.sql("SELECT job_title, location, lower_salary, upper_salary, avg_salary_k, python, hadoop FROM data_jobs_income")
+datajobs = spark.sql("SELECT job_title, location, lower_salary, upper_salary, python, hadoop FROM data_jobs_income")
 
 # Drop nulls
 datajobs = datajobs.na.drop()
 
-# Rename label column
-datajobs = datajobs.withColumnRenamed("avg_salary_k", "label")
 
 # Assemble only numeric features
 assembler = VectorAssembler(
-    inputCols=["lower_salary", "upper_salary", "python", "hadoop"],
+    inputCols=["lower_salary", "python", "hadoop"],
     outputCol="features"
 )
 
-assembled_df = assembler.transform(datajobs).select("features", "label")
+assembled_df = assembler.transform(datajobs).select("features", "upper_salary")
 
 # Train/Test Split
 train_data, test_data = assembled_df.randomSplit([0.7, 0.3])
