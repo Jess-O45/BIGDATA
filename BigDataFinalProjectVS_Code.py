@@ -9,19 +9,18 @@ spark = SparkSession.builder.appName("DataJobsMLPrediction").enableHiveSupport()
 sc = spark.sparkContext
 
 #load the data from Hive table 'data_jobs_income' into spark 
-datajobs = spark.sql("SELECT job_title, location, lower_salary, upper_salary, avg_salary, python, hadoop FROM data_jobs_income")
+datajobs = spark.sql("SELECT job_title, location, lower_salary, upper_salary, avg_salary_k, python, hadoop FROM data_jobs_income")
 
 #drop NAs
 datajobs = datajobs.na.drop()
 
 #prepare the data for MLlib by assembling features into a vector
 assembler = VectorAssembler(
-    inputCols=["job_title", "location", "lower_salary", "upper_salary", "python", "hadoop"],
-    outputCol="features",
-    handleInvalid="skip"
+    inputCols=["lower_salary", "upper_salary", "python", "hadoop"],
+    outputCol="features"
 )
                         
-assembled_df = assembler.transform(datajobs).select("features", "avg_salary_k")
+assembled_df = assembler.transform(datajobs).select("features", "label")
 
 #Split the data into training and testing sets
 train_data, test_data = assembled_df.randomSplit([0.7,0.3])
