@@ -67,7 +67,7 @@ data = [
 def write_to_hbase_partition(partition):
     connection = happybase.Connection('master')
     connection.open()
-    table = connection.table('my_table')
+    table = connection.table('data_jobs')
     for row in partition:
         row_key, column, value = row
         table.put(row_key.encode(), {column.encode(): value.encode()})
