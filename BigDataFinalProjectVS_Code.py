@@ -19,8 +19,8 @@ SELECT lower_salary,
 FROM data_jobs_income
 """)
 
-# Drop nulls
-datajobs = datajobs.na.drop()
+# Drop average salary rows with null values
+datajobs = datajobs.dropna(subset=["avg_salary_k"])
 
 # Rename target
 datajobs = datajobs.withColumnRenamed("avg_salary_k", "label")
