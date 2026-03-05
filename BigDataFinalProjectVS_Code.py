@@ -19,7 +19,6 @@ SELECT lower_salary,
 FROM data_jobs_income
 """)
 
-
 # Drop rows only where target is null
 datajobs = datajobs.dropna(subset=["avg_salary_k"])
 
@@ -59,20 +58,24 @@ print(f"RMSE: {test_results.rootMeanSquaredError}")
 print(f"R^2: {test_results.r2}")
 
 # Write metrics to HBase
+# Write metrics to HBase
 data = [
-    ('metrics1', 'cf:rmse', str(test_results.rootMeanSquaredError)),
-    ('metrics1', 'cf:r2', str(test_results.r2)),
+    ('metrics1', 'salary:rmse', str(test_results.rootMeanSquaredError)),
+    ('metrics1', 'salary:r2', str(test_results.r2)),
 ]
 
+rdd = spark.sparkContext.parallelize(data)
+rdd.foreachPartition(write_to_hbase_partition)
+
 def write_to_hbase_partition(partition):
-    connection = happybase.Connection('master')
+    connection = happybase.Connection('master')  # hostname from hostname -f
     connection.open()
-    table = connection.table('data_jobs')
+    table = connection.table('data_jobs')       # your existing table
     for row in partition:
         row_key, column, value = row
         table.put(row_key.encode(), {column.encode(): value.encode()})
     connection.close()
-
+    
 rdd = spark.sparkContext.parallelize(data)
 rdd.foreachPartition(write_to_hbase_partition)
 
