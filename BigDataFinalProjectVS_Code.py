@@ -10,14 +10,7 @@ spark = SparkSession.builder \
     .getOrCreate()
 
 # Load correct columns from Hive
-datajobs = spark.sql("""
-SELECT lower_salary,
-       upper_salary,
-       avg_salary_k,
-       python,
-       hadoop
-FROM data_jobs_income
-""")
+datajobs = spark.sql("SELECT job_title, location, lower_salary, upper_salary, avg_salary_k, python, hadoop FROM data_jobs_income")
 
 # Drop nulls
 datajobs = datajobs.na.drop()
