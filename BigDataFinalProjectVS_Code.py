@@ -21,13 +21,13 @@ assembler = VectorAssembler(
     handleInvalid="skip"
 )
                         
-assembled_df = assembler.transform(datajobs).select("features", "avg_salary")
+assembled_df = assembler.transform(datajobs).select("features", "avg_salary_k")
 
 #Split the data into training and testing sets
 train_data, test_data = assembled_df.randomSplit([0.7,0.3])
 
 #Initialize and train a Linear Regression model
-lr = LinearRegression(labelCol="avg_salary")
+lr = LinearRegression(labelCol="avg_salary_k")
 lr_model = lr.fit(train_data)
 
 #Evaluate the model on the test data
