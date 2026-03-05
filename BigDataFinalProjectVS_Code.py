@@ -19,8 +19,18 @@ SELECT lower_salary,
 FROM data_jobs_income
 """)
 
-# Drop average salary rows with null values
+
+# Drop rows only where target is null
 datajobs = datajobs.dropna(subset=["avg_salary_k"])
+
+# Fill NULL feature columns with 0
+datajobs = datajobs.fillna({
+    "lower_salary": 0,
+    "upper_salary": 0,
+    "python": 0,
+    "hadoop": 0
+})
+
 
 # Rename target
 datajobs = datajobs.withColumnRenamed("avg_salary_k", "label")
