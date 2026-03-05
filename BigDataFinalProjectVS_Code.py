@@ -64,8 +64,6 @@ data = [
     ('metrics1', 'salary:r2', str(test_results.r2)),
 ]
 
-rdd = spark.sparkContext.parallelize(data)
-rdd.foreachPartition(write_to_hbase_partition)
 
 def write_to_hbase_partition(partition):
     connection = happybase.Connection('master')  # hostname from hostname -f
